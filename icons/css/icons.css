@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'icons';
+  src: url('../font/icons.eot?59455752');
+  src: url('../font/icons.eot?59455752#iefix') format('embedded-opentype'),
+       url('../font/icons.woff?59455752') format('woff'),
+       url('../font/icons.ttf?59455752') format('truetype'),
+       url('../font/icons.svg?59455752#icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Chrome hack: SVG is rendered more smooth in Windozze. 100% magic, uncomment if you need it. */
+/* Note, that will break hinting! In other OS-es font will be not as sharp as it could be */
+/*
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: 'icons';
+    src: url('../font/icons.svg?59455752#icons') format('svg');
+  }
+}
+*/
+ 
+ [class^="icon-"]:before, [class*=" icon-"]:before {
+  font-family: "icons";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+ 
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .2em;
+  text-align: center;
+  /* opacity: .8; */
+ 
+  /* For safety - reset parent styles, that can break glyph codes*/
+  font-variant: normal;
+  text-transform: none;
+     
+  /* fix buttons height, for twitter bootstrap */
+  line-height: 1em;
+ 
+  /* Animation center compensation - margins should be symmetric */
+  /* remove if not needed */
+  margin-left: .2em;
+ 
+  /* you can be more comfortable with increased icons size */
+  /* font-size: 120%; */
+ 
+  /* Uncomment for 3D effect */
+  /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
+}
+ 
+.icon-github-squared:before { content: '\e85e'; } /* '' */
+.icon-mail-circled:before { content: '\e869'; } /* '' */
+.icon-cc:before { content: '\e854'; } /* '' */
+.icon-resize-full:before { content: '\e801'; } /* '' */
+.icon-resize-small:before { content: '\e800'; } /* '' */
+.icon-facebook-rect-2:before { content: '\e83b'; } /* '' */
+.icon-up-open-big:before { content: '\e872'; } /* '' */
+.icon-play-2:before { content: '\e807'; } /* '' */
+.icon-pause-2:before { content: '\e808'; } /* '' */
+.icon-twitter-circled:before { content: '\e832'; } /* '' */
+.icon-facebook-circled:before { content: '\e834'; } /* '' */
+.icon-email:before { content: '\e82c'; } /* '' */
+.icon-twitter-rect:before { content: '\e802'; } /* '' */

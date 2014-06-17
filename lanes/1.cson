@@ -1,0 +1,63 @@
+{
+  mainBox:
+    height: 400
+    _isVisible: true
+
+  workspaces:
+    workspaces: [
+      name: "Slides"
+      propHolders: [
+        id: "no-id-Slides-Slides-Number"
+        _expanded: true
+        actorPropId: "no-id-Slides-Slides-Number"
+        _height: 154
+      ]
+    ]
+    _activeWorkspaceName: "Slides"
+
+  timeControl:
+    t: 353.4688995215311
+    _focus:
+      from: 0
+      to: 1000
+
+    _lastPlayedTickAt: 0
+
+  timeline:
+    _allProps:
+      "no-id-Slides-Slides-Number":
+        pacs:
+          _idCounter: 1
+          chronologyLength: 251.19617224880386
+          chronology:
+            points: [
+              {
+                t: 215.90909090909093
+                value: 0
+                id: "no-id-Slides-Slides-Number-point-0"
+                handler: [
+                  12.679424285888672
+                  0.06586328148841858
+                  14.473682403564453
+                  0.13172656297683716
+                ]
+              }
+              {
+                t: 251.19617224880386
+                value: 1
+                id: "no-id-Slides-Slides-Number-point-1"
+                handler: [
+                  8.492820739746094
+                  0.38511258363723755
+                  10.885165214538574
+                  0.40351417660713196
+                ]
+              }
+            ]
+            connectors: []
+
+  timelineEditor:
+    scrollTop: -9
+    guides:
+      _list: []
+}
