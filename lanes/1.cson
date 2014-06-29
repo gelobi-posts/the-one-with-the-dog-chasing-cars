@@ -57,7 +57,7 @@
             connectors: []
 
   timelineEditor:
-    scrollTop: -89
+    scrollTop: -104
     guides:
       _list: [0]
 }
