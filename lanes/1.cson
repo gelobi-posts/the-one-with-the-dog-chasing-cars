@@ -18,8 +18,8 @@
   timeControl:
     t: 0
     _focus:
-      from: 0
-      to: 1000
+      from: -1000
+      to: 0
 
     _lastPlayedTickAt: 0
 
@@ -32,8 +32,8 @@
           chronology:
             points: [
               {
-                t: 215.90909090909093
-                value: 0
+                t: 171.6507177033493
+                value: 0.4309034752741195
                 id: "no-id-Slides-Slides-Number-point-0"
                 handler: [
                   12.679424285888672
@@ -57,7 +57,7 @@
             connectors: []
 
   timelineEditor:
-    scrollTop: -9
+    scrollTop: -89
     guides:
-      _list: []
+      _list: [0]
 }
