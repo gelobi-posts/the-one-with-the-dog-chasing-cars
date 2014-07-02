@@ -2,14 +2,26 @@ module.exports =
 
 """
 
-Slide 1
+Hi
 
 ~~
 
-Slide 2
+About griddify
 
 ~~
 
-Slide 3
+3 things about theatrejs
+
+~~
+
+Example
+
+~~
+
+What we've been up to
+
+~~
+
+Like a dog chasing cars
 
 """
