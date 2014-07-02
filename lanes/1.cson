@@ -16,10 +16,10 @@
     _activeWorkspaceName: "Slides"
 
   timeControl:
-    t: 0
+    t: 802.851
     _focus:
-      from: -1000
-      to: 0
+      from: 0
+      to: 4317.0693748848225
 
     _lastPlayedTickAt: 0
 
@@ -57,7 +57,7 @@
             connectors: []
 
   timelineEditor:
-    scrollTop: -87
+    scrollTop: -81
     guides:
       _list: [0]
 }
