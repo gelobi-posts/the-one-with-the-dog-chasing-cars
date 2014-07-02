@@ -1,6 +1,6 @@
 {
   mainBox:
-    height: 400
+    height: 204
     _isVisible: true
 
   workspaces:
@@ -16,10 +16,10 @@
     _activeWorkspaceName: "Slides"
 
   timeControl:
-    t: 586.1092991021859
+    t: 128871.82400000001
     _focus:
       from: 0
-      to: 4317.0693748848225
+      to: 155122.9937626446
 
     _lastPlayedTickAt: 0
 
@@ -27,12 +27,12 @@
     _allProps:
       "no-id-Slides-Slides-Number":
         pacs:
-          _idCounter: 1
-          chronologyLength: 251.19617224880386
+          _idCounter: 5
+          chronologyLength: 128496.02055099448
           chronology:
             points: [
               {
-                t: 171.6507177033493
+                t: 45.13373243459553
                 value: 0.4309034752741195
                 id: "no-id-Slides-Slides-Number-point-0"
                 handler: [
@@ -43,7 +43,7 @@
                 ]
               }
               {
-                t: 251.19617224880386
+                t: 6166.2080817851565
                 value: 1
                 id: "no-id-Slides-Slides-Number-point-1"
                 handler: [
@@ -51,6 +51,50 @@
                   0.38511258363723755
                   10.885165214538574
                   0.40351417660713196
+                ]
+              }
+              {
+                t: 39682.612313151905
+                value: 2
+                id: "no-id-Slides-Slides-Number-point-2"
+                handler: [
+                  100
+                  0.10707789659500122
+                  100
+                  0.10707789659500122
+                ]
+              }
+              {
+                t: 54645.60007547708
+                value: 3
+                id: "no-id-Slides-Slides-Number-point-3"
+                handler: [
+                  100
+                  0.19012318551540375
+                  100
+                  0.19012318551540375
+                ]
+              }
+              {
+                t: 120517.20627851396
+                value: 4
+                id: "no-id-Slides-Slides-Number-point-4"
+                handler: [
+                  100
+                  0.2827067971229553
+                  100
+                  0.2827067971229553
+                ]
+              }
+              {
+                t: 128496.02055099448
+                value: 5
+                id: "no-id-Slides-Slides-Number-point-5"
+                handler: [
+                  100
+                  0.4046192467212677
+                  100
+                  0.4046192467212677
                 ]
               }
             ]
