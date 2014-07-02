@@ -1,6 +1,6 @@
 {
   mainBox:
-    height: 204
+    height: 327
     _isVisible: true
 
   workspaces:
@@ -16,7 +16,7 @@
     _activeWorkspaceName: "Slides"
 
   timeControl:
-    t: 36275.77186674284
+    t: 87024.74171612477
     _focus:
       from: 0
       to: 155122.9937626446
@@ -27,7 +27,7 @@
     _allProps:
       "no-id-Slides-Slides-Number":
         pacs:
-          _idCounter: 6
+          _idCounter: 9
           chronologyLength: 128496.02055099448
           chronology:
             points: [
@@ -76,6 +76,28 @@
                 ]
               }
               {
+                t: 67912.69822622958
+                value: 0.3872743895596708
+                id: "no-id-Slides-Slides-Number-point-7"
+                handler: [
+                  4738.845703125
+                  1.7551875114440918
+                  0
+                  3.295600414276123
+                ]
+              }
+              {
+                t: 77561.4968813223
+                value: 2.719899630169887
+                id: "no-id-Slides-Slides-Number-point-8"
+                handler: [
+                  1862.7613525390625
+                  -2.3247060775756836
+                  100
+                  -0.7402814030647278
+                ]
+              }
+              {
                 t: 120517.20627851396
                 value: 4
                 id: "no-id-Slides-Slides-Number-point-4"
@@ -98,7 +120,10 @@
                 ]
               }
             ]
-            connectors: []
+            connectors: [
+              t: 67912.69822622958
+              id: "no-id-Slides-Slides-Number-connector-9"
+            ]
 
   timelineEditor:
     scrollTop: -81
