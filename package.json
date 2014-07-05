@@ -1,19 +1,17 @@
 {
-  "name": "tiny-filmmaking-studio-template",
+  "name": "the-one-with-the-dog-chasing-cars",
   "private": true,
   "version": "0.0.0",
   "description": "(work in progress)",
   "dependencies": {
     "tiny-filmmaking-studio": "*",
-    "stupid-dom-interface": "*",
-    "moosh": "~0.1.0-beta.15",
-    "kilid": "*"
+    "stupid-dom-interface": "~0.1.0-beta.13",
+    "moosh": "~0.1.0-beta.18",
+    "kilid": "~0.1.0-beta.10"
   },
   "devDependencies": {
     "clean-css": "^2.1.8",
     "fs-extra": "^0.8.1",
-    "pretty-error": "^0.1.18",
-    "pretty-monitor": "^0.3.2",
     "uglify-js": "^2.4.13"
   }
 }
