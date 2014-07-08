@@ -1,25 +1,51 @@
 {
   mainBox:
-    height: 204
+    height: 407
     _isVisible: true
 
   workspaces:
     workspaces: [
       name: "Slides"
       propHolders: [
-        id: "no-id-Slides-Slides-Number"
-        _expanded: true
-        actorPropId: "no-id-Slides-Slides-Number"
-        _height: 154
+        {
+          id: "no-id-Batman-THE DARK KNIGHT-Prog"
+          _expanded: true
+          actorPropId: "no-id-Batman-THE DARK KNIGHT-Prog"
+          _height: 551
+        }
+        {
+          id: "no-id-Batman-Director-Prog"
+          _expanded: true
+          actorPropId: "no-id-Batman-Director-Prog"
+          _height: 412
+        }
+        {
+          id: "no-id-Batman-Screen-Prog"
+          _expanded: true
+          actorPropId: "no-id-Batman-Screen-Prog"
+          _height: 81
+        }
+        {
+          id: "no-id-Batman-Story1-Prog"
+          _expanded: true
+          actorPropId: "no-id-Batman-Story1-Prog"
+          _height: 80
+        }
+        {
+          id: "no-id-Batman-Story2-Prog"
+          _expanded: true
+          actorPropId: "no-id-Batman-Story2-Prog"
+          _height: 80
+        }
       ]
     ]
     _activeWorkspaceName: "Slides"
 
   timeControl:
-    t: 128871.82400000001
+    t: 208527.648
     _focus:
-      from: 0
-      to: 155122.9937626446
+      from: 206087.1933990299
+      to: 211692.65146170714
 
     _lastPlayedTickAt: 0
 
@@ -100,8 +126,188 @@
             ]
             connectors: []
 
+      "no-id-More Tools - 1-More-Prog":
+        pacs:
+          _idCounter: 2
+          chronologyLength: 179036.9949318114
+          chronology:
+            points: [
+              {
+                t: 131793.3203200224
+                value: 0
+                id: "no-id-More Tools - 1-More-Prog-point-0"
+                handler: [
+                  100
+                  -1.5
+                  100
+                  -1.5
+                ]
+              }
+              {
+                t: 179036.9949318114
+                value: 100
+                id: "no-id-More Tools - 1-More-Prog-point-1"
+                handler: [
+                  100
+                  -1.631250023841858
+                  100
+                  -1.631250023841858
+                ]
+              }
+            ]
+            connectors: [
+              t: 131793.3203200224
+              id: "no-id-More Tools - 1-More-Prog-connector-2"
+            ]
+
+      "no-id-Batman-THE DARK KNIGHT-Prog":
+        pacs:
+          _idCounter: 39
+          chronologyLength: 209919.97958547855
+          chronology:
+            points: [
+              {
+                t: 207919.26706225972
+                value: 0
+                id: "no-id-Batman-THE DARK KNIGHT-Prog-point-0"
+                handler: [
+                  765.4802856445312
+                  0.7997983694076538
+                  0
+                  1.5286263227462769
+                ]
+              }
+              {
+                t: 208235.87260510336
+                value: 1.4
+                id: "no-id-Batman-THE DARK KNIGHT-Prog-point-35"
+                handler: [
+                  276.6380920410156
+                  -0.03628311678767204
+                  646.5366821289062
+                  0.03555825725197792
+                ]
+              }
+              {
+                t: 209633.7999101832
+                value: 1.5
+                id: "no-id-Batman-THE DARK KNIGHT-Prog-point-1"
+                handler: [
+                  610.4705200195312
+                  -0.04668525978922844
+                  71.7129898071289
+                  -1.0726698637008667
+                ]
+              }
+              {
+                t: 209919.97958547855
+                value: 0
+                id: "no-id-Batman-THE DARK KNIGHT-Prog-point-17"
+                handler: [
+                  185.40521240234375
+                  0.02508387714624405
+                  0
+                  -0.016429757699370384
+                ]
+              }
+            ]
+            connectors: [
+              {
+                t: 207919.26706225972
+                id: "no-id-Batman-THE DARK KNIGHT-Prog-connector-38"
+              }
+              {
+                t: 208235.87260510336
+                id: "no-id-Batman-THE DARK KNIGHT-Prog-connector-39"
+              }
+              {
+                t: 209633.7999101832
+                id: "no-id-Batman-THE DARK KNIGHT-Prog-connector-34"
+              }
+            ]
+
+      "no-id-Batman-Director-Prog":
+        pacs:
+          _idCounter: 38
+          chronologyLength: 212381.10364379542
+          chronology:
+            points: [
+              {
+                t: 210302.6377228183
+                value: 0
+                id: "no-id-Batman-Director-Prog-point-18"
+                handler: [
+                  100
+                  -0.06499999761581421
+                  0
+                  1.1969822645187378
+                ]
+              }
+              {
+                t: 210487.9112755453
+                value: 1
+                id: "no-id-Batman-Director-Prog-point-38"
+                handler: [
+                  100
+                  0.09144282341003418
+                  100
+                  0.09144282341003418
+                ]
+              }
+              {
+                t: 211973.48362144027
+                value: 1
+                id: "no-id-Batman-Director-Prog-point-17"
+                handler: [
+                  318.3326110839844
+                  0.00009278123616240919
+                  0
+                  -0.8013705611228943
+                ]
+              }
+              {
+                t: 212381.10364379542
+                value: -0.07713475778921326
+                id: "no-id-Batman-Director-Prog-point-27"
+                handler: [
+                  333.5391845703125
+                  0.01387554407119751
+                  100
+                  -0.007713475730270147
+                ]
+              }
+            ]
+            connectors: [
+              t: 211973.48362144027
+              id: "no-id-Batman-Director-Prog-connector-37"
+            ]
+
+      "no-id-Batman-Screen-Prog":
+        pacs:
+          _idCounter: 22
+          chronologyLength: 214745.7488962123
+          chronology:
+            points: []
+            connectors: []
+
+      "no-id-Batman-Story2-Prog":
+        pacs:
+          _idCounter: 2
+          chronologyLength: 219353.12514617248
+          chronology:
+            points: []
+            connectors: []
+
+      "no-id-Batman-Story1-Prog":
+        pacs:
+          _idCounter: -1
+          chronologyLength: 217074.4779751901
+          chronology:
+            points: []
+            connectors: []
+
   timelineEditor:
-    scrollTop: -81
+    scrollTop: 801
     guides:
       _list: [0]
 }
