@@ -1,7 +1,7 @@
 {
   mainBox:
     height: 407
-    _isVisible: false
+    _isVisible: true
 
   workspaces:
     workspaces: [
@@ -30,7 +30,7 @@
     _activeWorkspaceName: "Slides"
 
   timeControl:
-    t: 208871.26825107393
+    t: 208517.5896491959
     _focus:
       from: 203960.42053764104
       to: 211733.2192363858
@@ -434,19 +434,32 @@
 
       "no-id-TDK-Content-n":
         pacs:
-          _idCounter: 0
-          chronologyLength: 208375.3051541875
+          _idCounter: 1
+          chronologyLength: 208493.19802148017
           chronology:
             points: [
-              t: 208375.3051541875
-              value: 0
-              id: "no-id-TDK-Content-n-point-0"
-              handler: [
-                100
-                2.5
-                100
-                2.5
-              ]
+              {
+                t: 208375.3051541875
+                value: 0
+                id: "no-id-TDK-Content-n-point-0"
+                handler: [
+                  100
+                  2.5
+                  100
+                  2.5
+                ]
+              }
+              {
+                t: 208493.19802148017
+                value: 1
+                id: "no-id-TDK-Content-n-point-1"
+                handler: [
+                  100
+                  0.0625
+                  100
+                  0.0625
+                ]
+              }
             ]
             connectors: []
 
