@@ -7,42 +7,16 @@
     workspaces: [
       name: "Slides"
       propHolders: [
-        {
-          id: "no-id-Batman-THE DARK KNIGHT-Prog"
-          _expanded: true
-          actorPropId: "no-id-Batman-THE DARK KNIGHT-Prog"
-          _height: 395
-        }
-        {
-          id: "no-id-Batman-Director-Prog"
-          _expanded: true
-          actorPropId: "no-id-Batman-Director-Prog"
-          _height: 412
-        }
-        {
-          id: "no-id-Batman-Screen-Prog"
-          _expanded: true
-          actorPropId: "no-id-Batman-Screen-Prog"
-          _height: 81
-        }
-        {
-          id: "no-id-Batman-Story1-Prog"
-          _expanded: true
-          actorPropId: "no-id-Batman-Story1-Prog"
-          _height: 80
-        }
-        {
-          id: "no-id-Batman-Story2-Prog"
-          _expanded: true
-          actorPropId: "no-id-Batman-Story2-Prog"
-          _height: 80
-        }
+        id: "no-id-Project-Github-Opacity"
+        _expanded: true
+        actorPropId: "no-id-Project-Github-Opacity"
+        _height: 80
       ]
     ]
     _activeWorkspaceName: "Slides"
 
   timeControl:
-    t: 208767.698
+    t: 209050.238
     _focus:
       from: 202418.85372803337
       to: 215397.48953974884
@@ -285,6 +259,40 @@
           chronology:
             points: []
             connectors: []
+
+      "no-id-Project-Github-Opacity":
+        pacs:
+          _idCounter: 4
+          chronologyLength: 208534.83221462104
+          chronology:
+            points: [
+              {
+                t: 207957.85311211276
+                value: 0
+                id: "no-id-Project-Github-Opacity-point-0"
+                handler: [
+                  100
+                  0.05999999865889549
+                  0
+                  1.51739501953125
+                ]
+              }
+              {
+                t: 208534.83221462104
+                value: 1
+                id: "no-id-Project-Github-Opacity-point-1"
+                handler: [
+                  100
+                  0.0050999997183680534
+                  100
+                  0.0050999997183680534
+                ]
+              }
+            ]
+            connectors: [
+              t: 207957.85311211276
+              id: "no-id-Project-Github-Opacity-connector-4"
+            ]
 
   timelineEditor:
     scrollTop: 0

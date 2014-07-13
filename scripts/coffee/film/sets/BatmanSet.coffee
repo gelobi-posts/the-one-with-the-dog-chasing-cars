@@ -26,22 +26,25 @@ module.exports = class BatmanSet extends Set
 			scale: [.9, 1]
 
 
-		@_createWord "THE DARK KNIGHT", ".batman-title", "Batman", "THE DARK KNIGHT", darkKnightProps
+		el = @_makeEl ".batman-title"
+		.html 'THE DARK KNIGHT'
+		.inside @container
+		.z 1
 
-		@_createComplexWord "Directed by", "Christopher Nolan", ".batman-title", "Batman", "Director", props
+		@_setupDomEl 'Project', 'Github', el, ['opacity']
 
-		@_createComplexWord "Screenplay by", "Christopher Nolan", ".batman-title", "Batman", "Screen", props
+		# @_createWord "THE DARK KNIGHT", ".batman-title", "Batman", "THE DARK KNIGHT", darkKnightProps
 
-		@_createComplexWord "Story by", "Christopher Nolan", ".batman-title", "Batman", "Story1", props
+		# @_createComplexWord "Directed by", "Christopher Nolan", ".batman-title", "Batman", "Director", props
 
-		@_createComplexWord "Story by", "David S. Goyer", ".batman-title", "Batman", "Story2", props
+		# @_createComplexWord "Screenplay by", "Christopher Nolan", ".batman-title", "Batman", "Screen", props
+
+		# @_createComplexWord "Story by", "Christopher Nolan", ".batman-title", "Batman", "Story1", props
+
+		# @_createComplexWord "Story by", "David S. Goyer", ".batman-title", "Batman", "Story2", props
 
 
 
-		# el = @_makeEl ".batman-title"
-		# .html 'THE DARK KNIGHT'
-		# .inside @container
-		# .z 1
 
 		# @_setupTangled "Batman", "THE DARK KNIGHT", "Prog", el, props
 
