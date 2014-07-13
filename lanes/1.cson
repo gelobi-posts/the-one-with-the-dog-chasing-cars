@@ -11,7 +11,7 @@
           id: "no-id-Batman-THE DARK KNIGHT-Prog"
           _expanded: true
           actorPropId: "no-id-Batman-THE DARK KNIGHT-Prog"
-          _height: 551
+          _height: 395
         }
         {
           id: "no-id-Batman-Director-Prog"
@@ -42,10 +42,10 @@
     _activeWorkspaceName: "Slides"
 
   timeControl:
-    t: 208527.648
+    t: 210321.571
     _focus:
-      from: 206087.1933990299
-      to: 211692.65146170714
+      from: 198566.87
+      to: 221811.14446073945
 
     _lastPlayedTickAt: 0
 
@@ -162,7 +162,7 @@
 
       "no-id-Batman-THE DARK KNIGHT-Prog":
         pacs:
-          _idCounter: 39
+          _idCounter: 40
           chronologyLength: 209919.97958547855
           chronology:
             points: [
@@ -174,18 +174,7 @@
                   765.4802856445312
                   0.7997983694076538
                   0
-                  1.5286263227462769
-                ]
-              }
-              {
-                t: 208235.87260510336
-                value: 1.4
-                id: "no-id-Batman-THE DARK KNIGHT-Prog-point-35"
-                handler: [
-                  276.6380920410156
-                  -0.03628311678767204
-                  646.5366821289062
-                  0.03555825725197792
+                  2.288017749786377
                 ]
               }
               {
@@ -193,8 +182,8 @@
                 value: 1.5
                 id: "no-id-Batman-THE DARK KNIGHT-Prog-point-1"
                 handler: [
-                  610.4705200195312
-                  -0.04668525978922844
+                  1546.563232421875
+                  0.4234732389450073
                   71.7129898071289
                   -1.0726698637008667
                 ]
@@ -214,11 +203,7 @@
             connectors: [
               {
                 t: 207919.26706225972
-                id: "no-id-Batman-THE DARK KNIGHT-Prog-connector-38"
-              }
-              {
-                t: 208235.87260510336
-                id: "no-id-Batman-THE DARK KNIGHT-Prog-connector-39"
+                id: "no-id-Batman-THE DARK KNIGHT-Prog-connector-40"
               }
               {
                 t: 209633.7999101832
@@ -307,7 +292,7 @@
             connectors: []
 
   timelineEditor:
-    scrollTop: 801
+    scrollTop: 0
     guides:
       _list: [0]
 }
