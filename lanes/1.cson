@@ -42,10 +42,10 @@
     _activeWorkspaceName: "Slides"
 
   timeControl:
-    t: 208872.38700000002
+    t: 208767.698
     _focus:
-      from: 198566.87
-      to: 221811.14446073945
+      from: 202418.85372803337
+      to: 215397.48953974884
 
     _lastPlayedTickAt: 0
 
@@ -162,30 +162,19 @@
 
       "no-id-Batman-THE DARK KNIGHT-Prog":
         pacs:
-          _idCounter: 54
+          _idCounter: 57
           chronologyLength: 209919.97958547855
           chronology:
             points: [
               {
-                t: 207919.26706225972
+                t: 207858.4818256992
                 value: 0
                 id: "no-id-Batman-THE DARK KNIGHT-Prog-point-0"
                 handler: [
                   765.4802856445312
                   0.7997983694076538
                   0
-                  2.288017749786377
-                ]
-              }
-              {
-                t: 208085.83804537603
-                value: 1.535015183960048
-                id: "no-id-Batman-THE DARK KNIGHT-Prog-point-41"
-                handler: [
-                  136.4711456298828
-                  0.3099442720413208
-                  379.6120910644531
-                  -0.014625784941017628
+                  3.8967316150665283
                 ]
               }
               {
@@ -193,8 +182,8 @@
                 value: 1.5
                 id: "no-id-Batman-THE DARK KNIGHT-Prog-point-1"
                 handler: [
-                  1023.810302734375
-                  0.021006373688578606
+                  1774.8475341796875
+                  0.8602797985076904
                   71.7129898071289
                   -1.0726698637008667
                 ]
@@ -213,12 +202,8 @@
             ]
             connectors: [
               {
-                t: 207919.26706225972
-                id: "no-id-Batman-THE DARK KNIGHT-Prog-connector-53"
-              }
-              {
-                t: 208085.83804537603
-                id: "no-id-Batman-THE DARK KNIGHT-Prog-connector-54"
+                t: 207858.4818256992
+                id: "no-id-Batman-THE DARK KNIGHT-Prog-connector-57"
               }
               {
                 t: 209633.7999101832
