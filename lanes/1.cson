@@ -1,6 +1,6 @@
 {
   mainBox:
-    height: 407
+    height: 411
     _isVisible: true
 
   workspaces:
@@ -11,13 +11,13 @@
           id: "no-id-TDK-Title 1-Opacity"
           _expanded: true
           actorPropId: "no-id-TDK-Title 1-Opacity"
-          _height: 201
+          _height: 162
         }
         {
           id: "no-id-TDK-Title 1-Scale"
           _expanded: true
           actorPropId: "no-id-TDK-Title 1-Scale"
-          _height: 191
+          _height: 143
         }
         {
           id: "no-id-TDK-Content-n"
@@ -30,7 +30,7 @@
     _activeWorkspaceName: "Slides"
 
   timeControl:
-    t: 208517.5896491959
+    t: 208692.39631449193
     _focus:
       from: 203960.42053764104
       to: 211733.2192363858
@@ -434,8 +434,8 @@
 
       "no-id-TDK-Content-n":
         pacs:
-          _idCounter: 1
-          chronologyLength: 208493.19802148017
+          _idCounter: 3
+          chronologyLength: 208668.0046867762
           chronology:
             points: [
               {
@@ -460,11 +460,33 @@
                   0.0625
                 ]
               }
+              {
+                t: 208562.3076333414
+                value: 25
+                id: "no-id-TDK-Content-n-point-2"
+                handler: [
+                  100
+                  0.15000000596046448
+                  100
+                  0.15000000596046448
+                ]
+              }
+              {
+                t: 208668.0046867762
+                value: 26
+                id: "no-id-TDK-Content-n-point-3"
+                handler: [
+                  100
+                  1.00600004196167
+                  100
+                  1.00600004196167
+                ]
+              }
             ]
             connectors: []
 
   timelineEditor:
-    scrollTop: 69
+    scrollTop: 0
     guides:
       _list: [
         0
