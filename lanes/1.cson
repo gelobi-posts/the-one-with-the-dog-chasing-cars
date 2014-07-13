@@ -42,7 +42,7 @@
     _activeWorkspaceName: "Slides"
 
   timeControl:
-    t: 210321.571
+    t: 208872.38700000002
     _focus:
       from: 198566.87
       to: 221811.14446073945
@@ -162,7 +162,7 @@
 
       "no-id-Batman-THE DARK KNIGHT-Prog":
         pacs:
-          _idCounter: 40
+          _idCounter: 54
           chronologyLength: 209919.97958547855
           chronology:
             points: [
@@ -178,12 +178,23 @@
                 ]
               }
               {
+                t: 208085.83804537603
+                value: 1.535015183960048
+                id: "no-id-Batman-THE DARK KNIGHT-Prog-point-41"
+                handler: [
+                  136.4711456298828
+                  0.3099442720413208
+                  379.6120910644531
+                  -0.014625784941017628
+                ]
+              }
+              {
                 t: 209633.7999101832
                 value: 1.5
                 id: "no-id-Batman-THE DARK KNIGHT-Prog-point-1"
                 handler: [
-                  1546.563232421875
-                  0.4234732389450073
+                  1023.810302734375
+                  0.021006373688578606
                   71.7129898071289
                   -1.0726698637008667
                 ]
@@ -203,7 +214,11 @@
             connectors: [
               {
                 t: 207919.26706225972
-                id: "no-id-Batman-THE DARK KNIGHT-Prog-connector-40"
+                id: "no-id-Batman-THE DARK KNIGHT-Prog-connector-53"
+              }
+              {
+                t: 208085.83804537603
+                id: "no-id-Batman-THE DARK KNIGHT-Prog-connector-54"
               }
               {
                 t: 209633.7999101832
@@ -213,30 +228,19 @@
 
       "no-id-Batman-Director-Prog":
         pacs:
-          _idCounter: 38
+          _idCounter: 39
           chronologyLength: 212381.10364379542
           chronology:
             points: [
               {
-                t: 210302.6377228183
-                value: 0
+                t: 210217.53839163357
+                value: -0.05148525752251676
                 id: "no-id-Batman-Director-Prog-point-18"
                 handler: [
-                  100
-                  -0.06499999761581421
+                  610.5960083007812
+                  -0.47128722071647644
                   0
-                  1.1969822645187378
-                ]
-              }
-              {
-                t: 210487.9112755453
-                value: 1
-                id: "no-id-Batman-Director-Prog-point-38"
-                handler: [
-                  100
-                  0.09144282341003418
-                  100
-                  0.09144282341003418
+                  1.5961112976074219
                 ]
               }
               {
@@ -244,8 +248,8 @@
                 value: 1
                 id: "no-id-Batman-Director-Prog-point-17"
                 handler: [
-                  318.3326110839844
-                  0.00009278123616240919
+                  1667.764892578125
+                  0.29464149475097656
                   0
                   -0.8013705611228943
                 ]
@@ -263,8 +267,14 @@
               }
             ]
             connectors: [
-              t: 211973.48362144027
-              id: "no-id-Batman-Director-Prog-connector-37"
+              {
+                t: 210217.53839163357
+                id: "no-id-Batman-Director-Prog-connector-39"
+              }
+              {
+                t: 211973.48362144027
+                id: "no-id-Batman-Director-Prog-connector-37"
+              }
             ]
 
       "no-id-Batman-Screen-Prog":
