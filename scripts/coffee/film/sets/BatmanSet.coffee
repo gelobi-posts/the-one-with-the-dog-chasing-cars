@@ -17,6 +17,8 @@ module.exports = class BatmanSet extends Set
 
 			scale: [.88, .96]
 
+
+
 		props =
 
 			opacity: [0, 1]
