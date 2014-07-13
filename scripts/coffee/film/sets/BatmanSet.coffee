@@ -26,6 +26,8 @@ module.exports = class BatmanSet extends Set
 			scale: [.9, 1]
 
 
+
+
 		el = @_makeEl ".batman-title"
 		.html 'THE DARK KNIGHT'
 		.inside @container
