@@ -1,7 +1,7 @@
 {
   mainBox:
     height: 407
-    _isVisible: true
+    _isVisible: false
 
   workspaces:
     workspaces: [
@@ -16,7 +16,7 @@
     _activeWorkspaceName: "Slides"
 
   timeControl:
-    t: 207975.47389918112
+    t: 209226.70299999998
     _focus:
       from: 204524.05857740584
       to: 212296.85727615064
@@ -262,19 +262,19 @@
 
       "no-id-Project-Github-Opacity":
         pacs:
-          _idCounter: 11
+          _idCounter: 12
           chronologyLength: 208534.83221462104
           chronology:
             points: [
               {
-                t: 207843.7532189036
+                t: 207746.1867080407
                 value: -0.9915282141320324
                 id: "no-id-Project-Github-Opacity-point-0"
                 handler: [
                   100
                   0.05999999865889549
-                  4.065271377563477
-                  2.2826080322265625
+                  32.52217102050781
+                  2.8511385917663574
                 ]
               }
               {
@@ -282,16 +282,16 @@
                 value: 1
                 id: "no-id-Project-Github-Opacity-point-1"
                 handler: [
-                  681.9955444335938
-                  0.21327529847621918
+                  787.6925659179688
+                  -0.007253889925777912
                   100
                   0.0050999997183680534
                 ]
               }
             ]
             connectors: [
-              t: 207843.7532189036
-              id: "no-id-Project-Github-Opacity-connector-7"
+              t: 207746.1867080407
+              id: "no-id-Project-Github-Opacity-connector-12"
             ]
 
   timelineEditor:
