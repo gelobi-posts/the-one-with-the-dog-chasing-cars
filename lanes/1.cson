@@ -30,10 +30,10 @@
     _activeWorkspaceName: "Slides"
 
   timeControl:
-    t: 268569.331
+    t: 207485.01499999998
     _focus:
-      from: 266140.1673640167
-      to: 269074.2677824268
+      from: 198828.4518828452
+      to: 295826.3598326359
 
     _lastPlayedTickAt: 0
 
@@ -311,7 +311,7 @@
       "no-id-TDK-Title 1-Opacity":
         pacs:
           _idCounter: 11
-          chronologyLength: 277305.9446242746
+          chronologyLength: 289013.18944229244
           chronology:
             points: [
               {
@@ -1437,7 +1437,7 @@
                 ]
               }
               {
-                t: 267779.36521764525
+                t: 270077.61148434225
                 value: 1
                 id: "no-id-TDK-Title 1-Opacity-point-5"
                 handler: [
@@ -1448,7 +1448,7 @@
                 ]
               }
               {
-                t: 267964.1065129784
+                t: 270262.3527796754
                 value: 0
                 id: "no-id-TDK-Title 1-Opacity-point-6"
                 handler: [
@@ -1459,7 +1459,7 @@
                 ]
               }
               {
-                t: 268584.0240606671
+                t: 270882.2703273641
                 value: 0
                 id: "no-id-TDK-Title 1-Opacity-point-0"
                 handler: [
@@ -1470,7 +1470,7 @@
                 ]
               }
               {
-                t: 268836.0708803963
+                t: 271134.3171470933
                 value: 1
                 id: "no-id-TDK-Title 1-Opacity-point-2"
                 handler: [
@@ -1481,7 +1481,7 @@
                 ]
               }
               {
-                t: 270202.00203247694
+                t: 274693.78263855877
                 value: 1
                 id: "no-id-TDK-Title 1-Opacity-point-5"
                 handler: [
@@ -1492,7 +1492,7 @@
                 ]
               }
               {
-                t: 270386.7433278101
+                t: 274878.5239338919
                 value: 0
                 id: "no-id-TDK-Title 1-Opacity-point-6"
                 handler: [
@@ -1503,7 +1503,7 @@
                 ]
               }
               {
-                t: 270834.75284234766
+                t: 275326.5334484295
                 value: 0
                 id: "no-id-TDK-Title 1-Opacity-point-0"
                 handler: [
@@ -1514,7 +1514,7 @@
                 ]
               }
               {
-                t: 271086.79966207687
+                t: 275578.5802681587
                 value: 1
                 id: "no-id-TDK-Title 1-Opacity-point-2"
                 handler: [
@@ -1525,7 +1525,7 @@
                 ]
               }
               {
-                t: 272452.7308141575
+                t: 279381.68152843066
                 value: 1
                 id: "no-id-TDK-Title 1-Opacity-point-5"
                 handler: [
@@ -1536,7 +1536,7 @@
                 ]
               }
               {
-                t: 272637.47210949066
+                t: 279566.4228237638
                 value: 0
                 id: "no-id-TDK-Title 1-Opacity-point-6"
                 handler: [
@@ -1547,7 +1547,7 @@
                 ]
               }
               {
-                t: 273171.2545628813
+                t: 280100.20527715445
                 value: 0
                 id: "no-id-TDK-Title 1-Opacity-point-0"
                 handler: [
@@ -1558,7 +1558,7 @@
                 ]
               }
               {
-                t: 273423.30138261046
+                t: 280352.2520968836
                 value: 1
                 id: "no-id-TDK-Title 1-Opacity-point-2"
                 handler: [
@@ -1569,7 +1569,7 @@
                 ]
               }
               {
-                t: 274789.2325346911
+                t: 284035.29571635806
                 value: 1
                 id: "no-id-TDK-Title 1-Opacity-point-5"
                 handler: [
@@ -1580,7 +1580,7 @@
                 ]
               }
               {
-                t: 274973.97383002425
+                t: 284220.0370116912
                 value: 0
                 id: "no-id-TDK-Title 1-Opacity-point-6"
                 handler: [
@@ -1591,7 +1591,7 @@
                 ]
               }
               {
-                t: 275503.2253571317
+                t: 284749.28853879863
                 value: 0
                 id: "no-id-TDK-Title 1-Opacity-point-0"
                 handler: [
@@ -1602,7 +1602,7 @@
                 ]
               }
               {
-                t: 275755.27217686083
+                t: 285001.3353585278
                 value: 1
                 id: "no-id-TDK-Title 1-Opacity-point-2"
                 handler: [
@@ -1613,7 +1613,7 @@
                 ]
               }
               {
-                t: 277121.2033289415
+                t: 288828.4481469593
                 value: 1
                 id: "no-id-TDK-Title 1-Opacity-point-5"
                 handler: [
@@ -1624,7 +1624,7 @@
                 ]
               }
               {
-                t: 277305.9446242746
+                t: 289013.18944229244
                 value: 0
                 id: "no-id-TDK-Title 1-Opacity-point-6"
                 handler: [
@@ -1841,39 +1841,39 @@
                 id: "no-id-TDK-Title 1-Opacity-connector-4"
               }
               {
-                t: 267779.36521764525
+                t: 270077.61148434225
                 id: "no-id-TDK-Title 1-Opacity-connector-11"
               }
               {
-                t: 268584.0240606671
+                t: 270882.2703273641
                 id: "no-id-TDK-Title 1-Opacity-connector-4"
               }
               {
-                t: 270202.00203247694
+                t: 274693.78263855877
                 id: "no-id-TDK-Title 1-Opacity-connector-11"
               }
               {
-                t: 270834.75284234766
+                t: 275326.5334484295
                 id: "no-id-TDK-Title 1-Opacity-connector-4"
               }
               {
-                t: 272452.7308141575
+                t: 279381.68152843066
                 id: "no-id-TDK-Title 1-Opacity-connector-11"
               }
               {
-                t: 273171.2545628813
+                t: 280100.20527715445
                 id: "no-id-TDK-Title 1-Opacity-connector-4"
               }
               {
-                t: 274789.2325346911
+                t: 284035.29571635806
                 id: "no-id-TDK-Title 1-Opacity-connector-11"
               }
               {
-                t: 275503.2253571317
+                t: 284749.28853879863
                 id: "no-id-TDK-Title 1-Opacity-connector-4"
               }
               {
-                t: 277121.2033289415
+                t: 288828.4481469593
                 id: "no-id-TDK-Title 1-Opacity-connector-11"
               }
             ]
@@ -1881,7 +1881,7 @@
       "no-id-TDK-Title 1-Scale":
         pacs:
           _idCounter: 10
-          chronologyLength: 277329.897693094
+          chronologyLength: 289037.1425111118
           chronology:
             points: [
               {
@@ -3007,7 +3007,7 @@
                 ]
               }
               {
-                t: 267764.46966107027
+                t: 270062.7159277673
                 value: 1
                 id: "no-id-TDK-Title 1-Scale-point-4"
                 handler: [
@@ -3018,7 +3018,7 @@
                 ]
               }
               {
-                t: 267988.05958179774
+                t: 270286.30584849475
                 value: 0.94
                 id: "no-id-TDK-Title 1-Scale-point-5"
                 handler: [
@@ -3029,7 +3029,7 @@
                 ]
               }
               {
-                t: 268585.3895892359
+                t: 270883.6358559329
                 value: 0.99
                 id: "no-id-TDK-Title 1-Scale-point-0"
                 handler: [
@@ -3040,7 +3040,7 @@
                 ]
               }
               {
-                t: 268748.0004406741
+                t: 271046.2467073711
                 value: 1
                 id: "no-id-TDK-Title 1-Scale-point-2"
                 handler: [
@@ -3051,7 +3051,7 @@
                 ]
               }
               {
-                t: 270187.1064759019
+                t: 274678.88708198373
                 value: 1
                 id: "no-id-TDK-Title 1-Scale-point-4"
                 handler: [
@@ -3062,7 +3062,7 @@
                 ]
               }
               {
-                t: 270410.69639662944
+                t: 274902.47700271127
                 value: 0.94
                 id: "no-id-TDK-Title 1-Scale-point-5"
                 handler: [
@@ -3073,7 +3073,7 @@
                 ]
               }
               {
-                t: 270836.11837091646
+                t: 275327.8989769983
                 value: 0.99
                 id: "no-id-TDK-Title 1-Scale-point-0"
                 handler: [
@@ -3084,7 +3084,7 @@
                 ]
               }
               {
-                t: 270998.72922235465
+                t: 275490.5098284365
                 value: 1
                 id: "no-id-TDK-Title 1-Scale-point-2"
                 handler: [
@@ -3095,7 +3095,7 @@
                 ]
               }
               {
-                t: 272437.8352575825
+                t: 279366.7859718556
                 value: 1
                 id: "no-id-TDK-Title 1-Scale-point-4"
                 handler: [
@@ -3106,7 +3106,7 @@
                 ]
               }
               {
-                t: 272661.42517831
+                t: 279590.37589258316
                 value: 0.94
                 id: "no-id-TDK-Title 1-Scale-point-5"
                 handler: [
@@ -3117,7 +3117,7 @@
                 ]
               }
               {
-                t: 273172.62009145017
+                t: 280101.5708057233
                 value: 0.99
                 id: "no-id-TDK-Title 1-Scale-point-0"
                 handler: [
@@ -3128,7 +3128,7 @@
                 ]
               }
               {
-                t: 273335.2309428883
+                t: 280264.18165716145
                 value: 1
                 id: "no-id-TDK-Title 1-Scale-point-2"
                 handler: [
@@ -3139,7 +3139,7 @@
                 ]
               }
               {
-                t: 274774.33697811613
+                t: 284020.40015978314
                 value: 1
                 id: "no-id-TDK-Title 1-Scale-point-4"
                 handler: [
@@ -3150,7 +3150,7 @@
                 ]
               }
               {
-                t: 274997.9268988436
+                t: 284243.99008051056
                 value: 0.94
                 id: "no-id-TDK-Title 1-Scale-point-5"
                 handler: [
@@ -3161,7 +3161,7 @@
                 ]
               }
               {
-                t: 275504.59088570054
+                t: 284750.6540673675
                 value: 0.99
                 id: "no-id-TDK-Title 1-Scale-point-0"
                 handler: [
@@ -3172,7 +3172,7 @@
                 ]
               }
               {
-                t: 275667.2017371387
+                t: 284913.2649188056
                 value: 1
                 id: "no-id-TDK-Title 1-Scale-point-2"
                 handler: [
@@ -3183,7 +3183,7 @@
                 ]
               }
               {
-                t: 277106.3077723665
+                t: 288813.5525903844
                 value: 1
                 id: "no-id-TDK-Title 1-Scale-point-4"
                 handler: [
@@ -3194,7 +3194,7 @@
                 ]
               }
               {
-                t: 277329.897693094
+                t: 289037.1425111118
                 value: 0.94
                 id: "no-id-TDK-Title 1-Scale-point-5"
                 handler: [
@@ -3411,39 +3411,39 @@
                 id: "no-id-TDK-Title 1-Scale-connector-3"
               }
               {
-                t: 267764.46966107027
+                t: 270062.7159277673
                 id: "no-id-TDK-Title 1-Scale-connector-8"
               }
               {
-                t: 268585.3895892359
+                t: 270883.6358559329
                 id: "no-id-TDK-Title 1-Scale-connector-3"
               }
               {
-                t: 270187.1064759019
+                t: 274678.88708198373
                 id: "no-id-TDK-Title 1-Scale-connector-8"
               }
               {
-                t: 270836.11837091646
+                t: 275327.8989769983
                 id: "no-id-TDK-Title 1-Scale-connector-3"
               }
               {
-                t: 272437.8352575825
+                t: 279366.7859718556
                 id: "no-id-TDK-Title 1-Scale-connector-8"
               }
               {
-                t: 273172.62009145017
+                t: 280101.5708057233
                 id: "no-id-TDK-Title 1-Scale-connector-3"
               }
               {
-                t: 274774.33697811613
+                t: 284020.40015978314
                 id: "no-id-TDK-Title 1-Scale-connector-8"
               }
               {
-                t: 275504.59088570054
+                t: 284750.6540673675
                 id: "no-id-TDK-Title 1-Scale-connector-3"
               }
               {
-                t: 277106.3077723665
+                t: 288813.5525903844
                 id: "no-id-TDK-Title 1-Scale-connector-8"
               }
             ]
@@ -3451,7 +3451,7 @@
       "no-id-TDK-Content-n":
         pacs:
           _idCounter: 19
-          chronologyLength: 275096.1179311446
+          chronologyLength: 284342.1811128116
           chronology:
             points: [
               {
@@ -3741,7 +3741,7 @@
                 ]
               }
               {
-                t: 268220.51613845886
+                t: 270518.76240515587
                 value: 26
                 id: "no-id-TDK-Content-n-point-14"
                 handler: [
@@ -3752,7 +3752,7 @@
                 ]
               }
               {
-                t: 270334.97491894243
+                t: 274826.75552502426
                 value: 27
                 id: "no-id-TDK-Content-n-point-15"
                 handler: [
@@ -3763,7 +3763,7 @@
                 ]
               }
               {
-                t: 272708.68598842656
+                t: 279637.6367026997
                 value: 28
                 id: "no-id-TDK-Content-n-point-16"
                 handler: [
@@ -3774,7 +3774,7 @@
                 ]
               }
               {
-                t: 275096.1179311446
+                t: 284342.1811128116
                 value: 29
                 id: "no-id-TDK-Content-n-point-17"
                 handler: [
@@ -3797,6 +3797,9 @@
         210177.41942543024
         212571.62153586248
         245324.33890338053
+        270187.8249680503
+        274721.64800000004
+        276466.56877505657
         306554.16500000004
       ]
 }
