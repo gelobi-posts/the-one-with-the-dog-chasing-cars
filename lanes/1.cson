@@ -16,7 +16,7 @@
     _activeWorkspaceName: "Slides"
 
   timeControl:
-    t: 210382.194
+    t: 207975.47389918112
     _focus:
       from: 204524.05857740584
       to: 212296.85727615064
@@ -263,7 +263,7 @@
       "no-id-Project-Github-Opacity":
         pacs:
           _idCounter: 11
-          chronologyLength: 210365.85341532232
+          chronologyLength: 208534.83221462104
           chronology:
             points: [
               {
@@ -273,8 +273,8 @@
                 handler: [
                   100
                   0.05999999865889549
-                  179.411865234375
-                  2.456125020980835
+                  4.065271377563477
+                  2.2826080322265625
                 ]
               }
               {
@@ -282,48 +282,16 @@
                 value: 1
                 id: "no-id-Project-Github-Opacity-point-1"
                 handler: [
-                  669.7997436523438
-                  -0.04217280447483063
+                  681.9955444335938
+                  0.21327529847621918
                   100
                   0.0050999997183680534
                 ]
               }
-              {
-                t: 210004.04427087237
-                value: 1
-                id: "no-id-Project-Github-Opacity-point-8"
-                handler: [
-                  100
-                  0.09167622029781342
-                  89.43596649169922
-                  -0.483550101518631
-                ]
-              }
-              {
-                t: 210365.85341532232
-                value: 0
-                id: "no-id-Project-Github-Opacity-point-9"
-                handler: [
-                  327.6551818847656
-                  -0.021542906761169434
-                  100
-                  -0.07632637768983841
-                ]
-              }
             ]
             connectors: [
-              {
-                t: 207843.7532189036
-                id: "no-id-Project-Github-Opacity-connector-7"
-              }
-              {
-                t: 208534.83221462104
-                id: "no-id-Project-Github-Opacity-connector-11"
-              }
-              {
-                t: 210004.04427087237
-                id: "no-id-Project-Github-Opacity-connector-10"
-              }
+              t: 207843.7532189036
+              id: "no-id-Project-Github-Opacity-connector-7"
             ]
 
   timelineEditor:
