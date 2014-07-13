@@ -24,10 +24,10 @@
     _activeWorkspaceName: "Slides"
 
   timeControl:
-    t: 211384.15050707496
+    t: 210177.41942543024
     _focus:
-      from: 198138.11852112983
-      to: 222537.36048367998
+      from: 205559.62343096235
+      to: 216433.05439330544
 
     _lastPlayedTickAt: 0
 
@@ -305,7 +305,7 @@
       "no-id-TDK-Title 1-Opacity":
         pacs:
           _idCounter: 11
-          chronologyLength: 211885.23657328688
+          chronologyLength: 209729.40991089263
           chronology:
             points: [
               {
@@ -352,50 +352,6 @@
                   -0.005383593961596489
                 ]
               }
-              {
-                t: 210031.4728668917
-                value: 0
-                id: "no-id-TDK-Title 1-Opacity-point-0"
-                handler: [
-                  124.3916244506836
-                  0.012473137117922306
-                  0
-                  0.5633909702301025
-                ]
-              }
-              {
-                t: 210283.5196866209
-                value: 1
-                id: "no-id-TDK-Title 1-Opacity-point-2"
-                handler: [
-                  197.56649780273438
-                  0.02316586673259735
-                  100
-                  0.0026250400114804506
-                ]
-              }
-              {
-                t: 211649.45083870154
-                value: 1
-                id: "no-id-TDK-Title 1-Opacity-point-5"
-                handler: [
-                  100
-                  0.08344829827547073
-                  79.67364501953125
-                  -0.5553756356239319
-                ]
-              }
-              {
-                t: 211885.23657328688
-                value: 0
-                id: "no-id-TDK-Title 1-Opacity-point-6"
-                handler: [
-                  144.71798706054688
-                  -0.018909448757767677
-                  100
-                  -0.005383593961596489
-                ]
-              }
             ]
             connectors: [
               {
@@ -405,14 +361,6 @@
               {
                 t: 209544.6686155595
                 id: "no-id-TDK-Title 1-Opacity-connector-11"
-              }
-              {
-                t: 210031.4728668917
-                id: "no-id-TDK-Title 1-Opacity-connector-4"
-              }
-              {
-                t: 211649.45083870154
-                id: "no-id-TDK-Title 1-Opacity-connector-10"
               }
             ]
 
@@ -516,5 +464,6 @@
         0
         207926.69064374967
         209757.505
+        210177.41942543024
       ]
 }
