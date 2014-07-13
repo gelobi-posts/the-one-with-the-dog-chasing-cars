@@ -1,22 +1,30 @@
 {
   mainBox:
     height: 407
-    _isVisible: false
+    _isVisible: true
 
   workspaces:
     workspaces: [
       name: "Slides"
       propHolders: [
-        id: "no-id-Project-Github-Opacity"
-        _expanded: true
-        actorPropId: "no-id-Project-Github-Opacity"
-        _height: 309
+        {
+          id: "no-id-TDK-Title 1-Opacity"
+          _expanded: true
+          actorPropId: "no-id-TDK-Title 1-Opacity"
+          _height: 201
+        }
+        {
+          id: "no-id-TDK-Title 1-Scale"
+          _expanded: true
+          actorPropId: "no-id-TDK-Title 1-Scale"
+          _height: 191
+        }
       ]
     ]
     _activeWorkspaceName: "Slides"
 
   timeControl:
-    t: 209226.70299999998
+    t: 207800.6672338851
     _focus:
       from: 204524.05857740584
       to: 212296.85727615064
@@ -294,8 +302,29 @@
               id: "no-id-Project-Github-Opacity-connector-12"
             ]
 
+      "no-id-TDK-Title 1-Opacity":
+        pacs:
+          _idCounter: 0
+          chronologyLength: 207926.69064374967
+          chronology:
+            points: [
+              t: 207926.69064374967
+              value: 1.0463576158940397
+              id: "no-id-TDK-Title 1-Opacity-point-0"
+              handler: [
+                124.3916244506836
+                0.012473137117922306
+                104.06526947021484
+                0.03949826583266258
+              ]
+            ]
+            connectors: []
+
   timelineEditor:
     scrollTop: 0
     guides:
-      _list: [0]
+      _list: [
+        0
+        207926.69064374967
+      ]
 }

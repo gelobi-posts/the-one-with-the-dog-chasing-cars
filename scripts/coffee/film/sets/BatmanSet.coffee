@@ -31,7 +31,7 @@ module.exports = class BatmanSet extends Set
 		.inside @container
 		.z 1
 
-		@_setupDomEl 'Project', 'Github', el, ['opacity']
+		@_setupDomEl 'TDK', 'Title 1', el, ['opacity', 'scaleAll']
 
 		# @_createWord "THE DARK KNIGHT", ".batman-title", "Batman", "THE DARK KNIGHT", darkKnightProps
 
