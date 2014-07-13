@@ -201,7 +201,7 @@ module.exports = [
 	"
 	<ul>
 		<li class=\"little\">
-			If any copyright violations are occured, please notify us <br> at info@gelobi.org
+			If any copyright violations are occured, please notify us <br> at partypooper@gelobi.org
 		</li>
 	</ul>
 	"
@@ -209,7 +209,7 @@ module.exports = [
 	"
 	<ul>
 		<li class=\"little\">
-			Simulated with HTML5 and MooTools.<br>
+			Simulated with Yatta, Heegs and TheatreJS.<br>
 			The source code is in Public Domain.
 		</li>
 	</ul>
