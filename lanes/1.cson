@@ -24,10 +24,10 @@
     _activeWorkspaceName: "Slides"
 
   timeControl:
-    t: 210557.49800000002
+    t: 209933.364
     _focus:
-      from: 204524.05857740584
-      to: 212296.85727615064
+      from: 203960.42053764104
+      to: 211733.2192363858
 
     _lastPlayedTickAt: 0
 
@@ -304,8 +304,8 @@
 
       "no-id-TDK-Title 1-Opacity":
         pacs:
-          _idCounter: 9
-          chronologyLength: 209800.78070657462
+          _idCounter: 10
+          chronologyLength: 209780.45435014484
           chronology:
             points: [
               {
@@ -342,7 +342,7 @@
                 ]
               }
               {
-                t: 209800.78070657462
+                t: 209780.45435014484
                 value: 0
                 id: "no-id-TDK-Title 1-Opacity-point-6"
                 handler: [
@@ -360,14 +360,14 @@
               }
               {
                 t: 209544.6686155595
-                id: "no-id-TDK-Title 1-Opacity-connector-9"
+                id: "no-id-TDK-Title 1-Opacity-connector-10"
               }
             ]
 
       "no-id-TDK-Title 1-Scale":
         pacs:
-          _idCounter: 7
-          chronologyLength: 209788.58489271675
+          _idCounter: 8
+          chronologyLength: 209751.99745114316
           chronology:
             points: [
               {
@@ -400,16 +400,16 @@
                   128.45689392089844
                   -0.001390971476212144
                   112.19580841064453
-                  -0.010163703002035618
+                  -0.0006272794562391937
                 ]
               }
               {
-                t: 209788.58489271675
+                t: 209751.99745114316
                 value: 0.94
                 id: "no-id-TDK-Title 1-Scale-point-5"
                 handler: [
-                  30.8903865814209
-                  0.008527169935405254
+                  6.498759746551514
+                  0.021242402493953705
                   100
                   0.0032796806190162897
                 ]
@@ -422,12 +422,12 @@
               }
               {
                 t: 209528.40753041566
-                id: "no-id-TDK-Title 1-Scale-connector-7"
+                id: "no-id-TDK-Title 1-Scale-connector-8"
               }
             ]
 
   timelineEditor:
-    scrollTop: -1
+    scrollTop: -11
     guides:
       _list: [
         0
