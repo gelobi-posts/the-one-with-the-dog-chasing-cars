@@ -18,3 +18,11 @@ module.exports = class BatmanSet extends Set
 		.z 1
 
 		@_setupDomEl 'TDK', 'Title 1', el, ['opacity', 'scaleAll']
+
+		obj =
+
+			n: (n) ->
+
+				el.html titles[n]
+
+		@_setupObject 'TDK', 'Content', obj, ['n']
