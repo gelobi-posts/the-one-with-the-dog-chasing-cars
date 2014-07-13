@@ -30,7 +30,7 @@
     _activeWorkspaceName: "Slides"
 
   timeControl:
-    t: 281625.897
+    t: 269946.4459218152
     _focus:
       from: 222473.849372385
       to: 284262.5523012553
@@ -311,7 +311,7 @@
       "no-id-TDK-Title 1-Opacity":
         pacs:
           _idCounter: 11
-          chronologyLength: 281979.3102207869
+          chronologyLength: 277305.9446242746
           chronology:
             points: [
               {
@@ -1634,94 +1634,6 @@
                   -0.005383593961596489
                 ]
               }
-              {
-                t: 277925.8621719633
-                value: 0
-                id: "no-id-TDK-Title 1-Opacity-point-0"
-                handler: [
-                  124.3916244506836
-                  0.012473137117922306
-                  0
-                  0.5633909702301025
-                ]
-              }
-              {
-                t: 278177.90899169253
-                value: 1
-                id: "no-id-TDK-Title 1-Opacity-point-2"
-                handler: [
-                  197.56649780273438
-                  0.02316586673259735
-                  100
-                  0.0026250400114804506
-                ]
-              }
-              {
-                t: 279543.8401437732
-                value: 1
-                id: "no-id-TDK-Title 1-Opacity-point-5"
-                handler: [
-                  100
-                  0.08344829827547073
-                  79.67364501953125
-                  -0.5553756356239319
-                ]
-              }
-              {
-                t: 279728.5814391063
-                value: 0
-                id: "no-id-TDK-Title 1-Opacity-point-6"
-                handler: [
-                  144.71798706054688
-                  -0.018909448757767677
-                  100
-                  -0.005383593961596489
-                ]
-              }
-              {
-                t: 280176.5909536439
-                value: 0
-                id: "no-id-TDK-Title 1-Opacity-point-0"
-                handler: [
-                  124.3916244506836
-                  0.012473137117922306
-                  0
-                  0.5633909702301025
-                ]
-              }
-              {
-                t: 280428.6377733731
-                value: 1
-                id: "no-id-TDK-Title 1-Opacity-point-2"
-                handler: [
-                  197.56649780273438
-                  0.02316586673259735
-                  100
-                  0.0026250400114804506
-                ]
-              }
-              {
-                t: 281794.56892545376
-                value: 1
-                id: "no-id-TDK-Title 1-Opacity-point-5"
-                handler: [
-                  100
-                  0.08344829827547073
-                  79.67364501953125
-                  -0.5553756356239319
-                ]
-              }
-              {
-                t: 281979.3102207869
-                value: 0
-                id: "no-id-TDK-Title 1-Opacity-point-6"
-                handler: [
-                  144.71798706054688
-                  -0.018909448757767677
-                  100
-                  -0.005383593961596489
-                ]
-              }
             ]
             connectors: [
               {
@@ -1964,28 +1876,12 @@
                 t: 277121.2033289415
                 id: "no-id-TDK-Title 1-Opacity-connector-11"
               }
-              {
-                t: 277925.8621719633
-                id: "no-id-TDK-Title 1-Opacity-connector-4"
-              }
-              {
-                t: 279543.8401437732
-                id: "no-id-TDK-Title 1-Opacity-connector-11"
-              }
-              {
-                t: 280176.5909536439
-                id: "no-id-TDK-Title 1-Opacity-connector-4"
-              }
-              {
-                t: 281794.56892545376
-                id: "no-id-TDK-Title 1-Opacity-connector-11"
-              }
             ]
 
       "no-id-TDK-Title 1-Scale":
         pacs:
           _idCounter: 10
-          chronologyLength: 282003.26328960626
+          chronologyLength: 277329.897693094
           chronology:
             points: [
               {
@@ -3308,94 +3204,6 @@
                   0.0032796806190162897
                 ]
               }
-              {
-                t: 277927.2277005322
-                value: 0.99
-                id: "no-id-TDK-Title 1-Scale-point-0"
-                handler: [
-                  201.63177490234375
-                  0.003232670947909355
-                  0
-                  0.008521060459315777
-                ]
-              }
-              {
-                t: 278089.8385519703
-                value: 1
-                id: "no-id-TDK-Title 1-Scale-point-2"
-                handler: [
-                  95.93473815917969
-                  -0.0003680144436657429
-                  124.39161682128906
-                  -0.0023731067776679993
-                ]
-              }
-              {
-                t: 279528.9445871982
-                value: 1
-                id: "no-id-TDK-Title 1-Scale-point-4"
-                handler: [
-                  128.45689392089844
-                  -0.001390971476212144
-                  112.19580841064453
-                  -0.0006272794562391937
-                ]
-              }
-              {
-                t: 279752.5345079257
-                value: 0.94
-                id: "no-id-TDK-Title 1-Scale-point-5"
-                handler: [
-                  6.498759746551514
-                  0.021242402493953705
-                  100
-                  0.0032796806190162897
-                ]
-              }
-              {
-                t: 280177.95648221276
-                value: 0.99
-                id: "no-id-TDK-Title 1-Scale-point-0"
-                handler: [
-                  201.63177490234375
-                  0.003232670947909355
-                  0
-                  0.008521060459315777
-                ]
-              }
-              {
-                t: 280340.5673336509
-                value: 1
-                id: "no-id-TDK-Title 1-Scale-point-2"
-                handler: [
-                  95.93473815917969
-                  -0.0003680144436657429
-                  124.39161682128906
-                  -0.0023731067776679993
-                ]
-              }
-              {
-                t: 281779.6733688788
-                value: 1
-                id: "no-id-TDK-Title 1-Scale-point-4"
-                handler: [
-                  128.45689392089844
-                  -0.001390971476212144
-                  112.19580841064453
-                  -0.0006272794562391937
-                ]
-              }
-              {
-                t: 282003.26328960626
-                value: 0.94
-                id: "no-id-TDK-Title 1-Scale-point-5"
-                handler: [
-                  6.498759746551514
-                  0.021242402493953705
-                  100
-                  0.0032796806190162897
-                ]
-              }
             ]
             connectors: [
               {
@@ -3638,28 +3446,12 @@
                 t: 277106.3077723665
                 id: "no-id-TDK-Title 1-Scale-connector-8"
               }
-              {
-                t: 277927.2277005322
-                id: "no-id-TDK-Title 1-Scale-connector-3"
-              }
-              {
-                t: 279528.9445871982
-                id: "no-id-TDK-Title 1-Scale-connector-8"
-              }
-              {
-                t: 280177.95648221276
-                id: "no-id-TDK-Title 1-Scale-connector-3"
-              }
-              {
-                t: 281779.6733688788
-                id: "no-id-TDK-Title 1-Scale-connector-8"
-              }
             ]
 
       "no-id-TDK-Content-n":
         pacs:
           _idCounter: 19
-          chronologyLength: 279939.5861827509
+          chronologyLength: 275096.1179311446
           chronology:
             points: [
               {
@@ -3990,28 +3782,6 @@
                   1.0300084352493286
                   67.68373107910156
                   1.0300084352493286
-                ]
-              }
-              {
-                t: 277483.5498738627
-                value: 30
-                id: "no-id-TDK-Content-n-point-18"
-                handler: [
-                  100
-                  0.7613105773925781
-                  100
-                  0.7613105773925781
-                ]
-              }
-              {
-                t: 279939.5861827509
-                value: 31
-                id: "no-id-TDK-Content-n-point-19"
-                handler: [
-                  100
-                  0.85087651014328
-                  100
-                  0.85087651014328
                 ]
               }
             ]
