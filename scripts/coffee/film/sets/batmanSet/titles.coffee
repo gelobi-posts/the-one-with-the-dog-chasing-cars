@@ -218,7 +218,7 @@ module.exports = [
 	"
 	<ul>
 		<li class=\"little\">
-			Published in <br>
+			Published in<br>
 			<div class='gelobi'></div>
 		</li>
 	</ul>
