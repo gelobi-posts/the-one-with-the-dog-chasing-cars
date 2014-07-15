@@ -30,10 +30,10 @@
     _activeWorkspaceName: "Slides"
 
   timeControl:
-    t: 301628.766
+    t: 303380.594
     _focus:
-      from: 294384.37123448256
-      to: 305940.4546572354
+      from: 246119.2468619247
+      to: 316161.7527798913
 
     _lastPlayedTickAt: 0
 
@@ -3257,18 +3257,18 @@
                 ]
               }
               {
-                t: 301165.636017645
+                t: 301150.6750556159
                 value: 0.99
                 id: "no-id-TDK-Title 1-Scale-point-0"
                 handler: [
                   201.63177490234375
                   0.003232670947909355
-                  1.0050584077835083
-                  0.009932825341820717
+                  0
+                  0.008521060459315777
                 ]
               }
               {
-                t: 301328.24686908314
+                t: 301313.285907054
                 value: 1
                 id: "no-id-TDK-Title 1-Scale-point-2"
                 handler: [
@@ -3543,7 +3543,7 @@
                 id: "no-id-TDK-Title 1-Scale-connector-8"
               }
               {
-                t: 301165.636017645
+                t: 301150.6750556159
                 id: "no-id-TDK-Title 1-Scale-connector-12"
               }
               {
@@ -3903,7 +3903,7 @@
             connectors: []
 
   timelineEditor:
-    scrollTop: -176
+    scrollTop: -207
     guides:
       _list: [
         0
