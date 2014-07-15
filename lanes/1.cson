@@ -1,7 +1,7 @@
 {
   mainBox:
     height: 411
-    _isVisible: true
+    _isVisible: false
 
   workspaces:
     workspaces: [
