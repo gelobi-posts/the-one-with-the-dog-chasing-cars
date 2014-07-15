@@ -1,7 +1,7 @@
 {
   mainBox:
     height: 327
-    _isVisible: true
+    _isVisible: false
 
   workspaces:
     workspaces: [
@@ -16,7 +16,7 @@
     _activeWorkspaceName: "Slides"
 
   timeControl:
-    t: 58727.78412186246
+    t: 63552.18344940882
     _focus:
       from: 0
       to: 155122.9937626446

@@ -1,6 +1,6 @@
-ResponsiveFullscreenDisplay = require 'tiny-filmmaking-studio/scripts/js/lib/film/ResponsiveFullscreenDisplay'
+FixedRatioFullscreenDisplay = require 'tiny-filmmaking-studio/scripts/js/lib/film/FixedRatioFullscreenDisplay'
 
-display = new ResponsiveFullscreenDisplay
+display = new FixedRatioFullscreenDisplay
 
 film = require('./_edit') display
 
