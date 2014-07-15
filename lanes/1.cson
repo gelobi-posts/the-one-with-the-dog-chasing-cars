@@ -1,7 +1,7 @@
 {
   mainBox:
     height: 393
-    _isVisible: false
+    _isVisible: true
 
   workspaces:
     workspaces: [
@@ -30,10 +30,10 @@
     _activeWorkspaceName: "Slides"
 
   timeControl:
-    t: 305547.481
+    t: 313335.872
     _focus:
-      from: 302597.54600000003
-      to: 311572.44118828455
+      from: 293278.4674530646
+      to: 318548.8620631361
 
     _lastPlayedTickAt: 0
 
@@ -3903,7 +3903,7 @@
             connectors: []
 
   timelineEditor:
-    scrollTop: -207
+    scrollTop: -225
     guides:
       _list: [
         0
