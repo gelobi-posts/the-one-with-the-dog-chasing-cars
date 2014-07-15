@@ -209,7 +209,7 @@ module.exports = [
 	"
 	<ul>
 		<li class=\"little\">
-			Simulated with Yatta, Heegs and TheatreJS.<br>
+			Powered by Yatta, Heegs and theatrejs.<br>
 			The source code is in Public Domain.
 		</li>
 	</ul>
