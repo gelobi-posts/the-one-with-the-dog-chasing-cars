@@ -209,8 +209,17 @@ module.exports = [
 	"
 	<ul>
 		<li class=\"little\">
-			Powered by Yatta, Heegs and theatrejs.<br>
-			The source code is in Public Domain.
+			Powered by Yatta, Heegs and theatrejs
+		</li>
+	</ul>
+
+	"
+
+	"
+	<ul>
+		<li class=\"little\">
+			Published in gelobi <br>
+			a Pixana Product
 		</li>
 	</ul>
 
