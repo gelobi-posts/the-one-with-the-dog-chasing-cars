@@ -9,7 +9,7 @@ module.exports = class BatmanSet extends Set
 
 		@id = 'batman'
 
-		@container = @makeSetContainer([177000])
+		@container = @makeSetContainer()
 		.attr 'id', 'batmanContainer'
 
 		el = @_makeEl ".batman-title"
