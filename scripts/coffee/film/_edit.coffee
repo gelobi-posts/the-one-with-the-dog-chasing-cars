@@ -1,6 +1,5 @@
 EditingFilm = require 'tiny-filmmaking-studio/scripts/js/lib/EditingFilm'
 setupLane1 = require './lanes/1'
-# setupSlides = require './slides/setup'
 
 module.exports = (display) ->
 
@@ -21,8 +20,6 @@ module.exports = (display) ->
 	film.display = display
 
 	setupLane1 film
-
-	# setupSlides film
 
 	film.theatre.model.audio.set window.postBase + '/xeno/tdk.mp3'
 
