@@ -21,11 +21,6 @@ module.exports = (display) ->
 
 	setupLane1 film
 
-	film.theatre.model.audio.set window.postBase + '/xeno/tdk.mp3'
-
-	# film.theatre.model.audio.set '../xeno/tdk.mp3'
-	# film.theatre.model.audio.mute()
-
 	film.run()
 
 	film
