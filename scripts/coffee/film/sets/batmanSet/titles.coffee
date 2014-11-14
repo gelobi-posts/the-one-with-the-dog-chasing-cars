@@ -209,6 +209,14 @@ module.exports = [
 	"
 	<ul>
 		<li class=\"little\">
+			Released under CreativeCommons 3.0 BY-SA
+		</li>
+	</ul>
+	"
+
+	"
+	<ul>
+		<li class=\"little\">
 			Powered by TheatreJS
 		</li>
 	</ul>

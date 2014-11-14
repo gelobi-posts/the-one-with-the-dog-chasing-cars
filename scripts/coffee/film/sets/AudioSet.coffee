@@ -8,4 +8,8 @@ module.exports = class AudioSet extends Set
 
 		@id = 'audio'
 
-		@film.theatre.model.audio.set window.postBase + '/xeno/tdk.mp3'
+		url = window.postBase + '/xeno/tdk.mp3'
+
+		@film.theatre.model.audio.set url
+
+		@film.loader.loadWithAudioDrivenTimeControl @film.theatre.model.audio, 2291390

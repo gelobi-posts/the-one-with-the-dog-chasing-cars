@@ -7,17 +7,32 @@
 	left: 0
 
 	display: flex
+	display: -webkit-flex
 	align-items: center
+	-webkit-align-items: center
 	justify-content: center
-
+	-webkit-justify-content: center
 
 .batman-title
 
 	font-size: 46px
 
+	@media screen and (max-width: 1600px)
+
+		font-size: 42px !important
+
+	@media screen and (max-width: 1200px)
+
+		font-size: 40px !important
+
+	@media screen and (max-width: 1000px)
+
+		font-size: 36px !important
+
 	@media screen and (max-width: 800px)
 
 		font-size: 30px !important
+
 
 	color: #FEFEFE
 
@@ -59,7 +74,7 @@
 
 	.little
 
-		font-size: 0.47em
+		font-size: 0.65em
 		letter-spacing: 2px
 		text-transform: none
 		line-height: 1.3em
