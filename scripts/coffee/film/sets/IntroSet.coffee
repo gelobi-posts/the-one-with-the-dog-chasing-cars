@@ -8,7 +8,7 @@ module.exports = class IntroSet extends Set
 
 		@id = 'intro'
 
-		@container = @makeSetContainer()
+		@container = @makeSetContainer([0, 176000])
 		.attr 'id', 'intro-container'
 
 		return

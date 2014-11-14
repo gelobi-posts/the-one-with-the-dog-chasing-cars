@@ -1,25 +1,39 @@
 {
   mainBox:
-    height: 327
-    _isVisible: false
+    height: 50
+    _isVisible: true
 
   workspaces:
     workspaces: [
       name: "Slides"
       propHolders: [
-        id: "no-id-Slides-Slides-Number"
-        _expanded: true
-        actorPropId: "no-id-Slides-Slides-Number"
-        _height: 154
+        {
+          id: "no-id-TDK-Title 1-Opacity"
+          _expanded: true
+          actorPropId: "no-id-TDK-Title 1-Opacity"
+          _height: 152
+        }
+        {
+          id: "no-id-TDK-Title 1-Scale"
+          _expanded: true
+          actorPropId: "no-id-TDK-Title 1-Scale"
+          _height: 210
+        }
+        {
+          id: "no-id-TDK-Content-n"
+          _expanded: true
+          actorPropId: "no-id-TDK-Content-n"
+          _height: 61
+        }
       ]
     ]
     _activeWorkspaceName: "Slides"
 
   timeControl:
-    t: 63552.18344940882
+    t: 273552.3749589491
     _focus:
-      from: 0
-      to: 155122.9937626446
+      from: 266578.2482255097
+      to: 308674.782154429
 
     _lastPlayedTickAt: 0
 
@@ -125,8 +139,3809 @@
               id: "no-id-Slides-Slides-Number-connector-9"
             ]
 
+      "no-id-More Tools - 1-More-Prog":
+        pacs:
+          _idCounter: 2
+          chronologyLength: 179036.9949318114
+          chronology:
+            points: [
+              {
+                t: 131793.3203200224
+                value: 0
+                id: "no-id-More Tools - 1-More-Prog-point-0"
+                handler: [
+                  100
+                  -1.5
+                  100
+                  -1.5
+                ]
+              }
+              {
+                t: 179036.9949318114
+                value: 100
+                id: "no-id-More Tools - 1-More-Prog-point-1"
+                handler: [
+                  100
+                  -1.631250023841858
+                  100
+                  -1.631250023841858
+                ]
+              }
+            ]
+            connectors: [
+              t: 131793.3203200224
+              id: "no-id-More Tools - 1-More-Prog-connector-2"
+            ]
+
+      "no-id-Batman-THE DARK KNIGHT-Prog":
+        pacs:
+          _idCounter: 57
+          chronologyLength: 209919.97958547855
+          chronology:
+            points: [
+              {
+                t: 207858.4818256992
+                value: 0
+                id: "no-id-Batman-THE DARK KNIGHT-Prog-point-0"
+                handler: [
+                  765.4802856445312
+                  0.7997983694076538
+                  0
+                  3.8967316150665283
+                ]
+              }
+              {
+                t: 209633.7999101832
+                value: 1.5
+                id: "no-id-Batman-THE DARK KNIGHT-Prog-point-1"
+                handler: [
+                  1774.8475341796875
+                  0.8602797985076904
+                  71.7129898071289
+                  -1.0726698637008667
+                ]
+              }
+              {
+                t: 209919.97958547855
+                value: 0
+                id: "no-id-Batman-THE DARK KNIGHT-Prog-point-17"
+                handler: [
+                  185.40521240234375
+                  0.02508387714624405
+                  0
+                  -0.016429757699370384
+                ]
+              }
+            ]
+            connectors: [
+              {
+                t: 207858.4818256992
+                id: "no-id-Batman-THE DARK KNIGHT-Prog-connector-57"
+              }
+              {
+                t: 209633.7999101832
+                id: "no-id-Batman-THE DARK KNIGHT-Prog-connector-34"
+              }
+            ]
+
+      "no-id-Batman-Director-Prog":
+        pacs:
+          _idCounter: 39
+          chronologyLength: 212381.10364379542
+          chronology:
+            points: [
+              {
+                t: 210217.53839163357
+                value: -0.05148525752251676
+                id: "no-id-Batman-Director-Prog-point-18"
+                handler: [
+                  610.5960083007812
+                  -0.47128722071647644
+                  0
+                  1.5961112976074219
+                ]
+              }
+              {
+                t: 211973.48362144027
+                value: 1
+                id: "no-id-Batman-Director-Prog-point-17"
+                handler: [
+                  1667.764892578125
+                  0.29464149475097656
+                  0
+                  -0.8013705611228943
+                ]
+              }
+              {
+                t: 212381.10364379542
+                value: -0.07713475778921326
+                id: "no-id-Batman-Director-Prog-point-27"
+                handler: [
+                  333.5391845703125
+                  0.01387554407119751
+                  100
+                  -0.007713475730270147
+                ]
+              }
+            ]
+            connectors: [
+              {
+                t: 210217.53839163357
+                id: "no-id-Batman-Director-Prog-connector-39"
+              }
+              {
+                t: 211973.48362144027
+                id: "no-id-Batman-Director-Prog-connector-37"
+              }
+            ]
+
+      "no-id-Batman-Screen-Prog":
+        pacs:
+          _idCounter: 22
+          chronologyLength: 214745.7488962123
+          chronology:
+            points: []
+            connectors: []
+
+      "no-id-Batman-Story2-Prog":
+        pacs:
+          _idCounter: 2
+          chronologyLength: 219353.12514617248
+          chronology:
+            points: []
+            connectors: []
+
+      "no-id-Batman-Story1-Prog":
+        pacs:
+          _idCounter: -1
+          chronologyLength: 217074.4779751901
+          chronology:
+            points: []
+            connectors: []
+
+      "no-id-Project-Github-Opacity":
+        pacs:
+          _idCounter: 12
+          chronologyLength: 208534.83221462104
+          chronology:
+            points: [
+              {
+                t: 207746.1867080407
+                value: -0.9915282141320324
+                id: "no-id-Project-Github-Opacity-point-0"
+                handler: [
+                  100
+                  0.05999999865889549
+                  32.52217102050781
+                  2.8511385917663574
+                ]
+              }
+              {
+                t: 208534.83221462104
+                value: 1
+                id: "no-id-Project-Github-Opacity-point-1"
+                handler: [
+                  787.6925659179688
+                  -0.007253889925777912
+                  100
+                  0.0050999997183680534
+                ]
+              }
+            ]
+            connectors: [
+              t: 207746.1867080407
+              id: "no-id-Project-Github-Opacity-connector-12"
+            ]
+
+      "no-id-TDK-Title 1-Opacity":
+        pacs:
+          _idCounter: 14
+          chronologyLength: 306385.98141022015
+          chronology:
+            points: [
+              {
+                t: 207926.69064374967
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 208178.73746347884
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 209544.6686155595
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 209729.40991089263
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 210177.41942543024
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 210429.46624515942
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 211913.83019778627
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 212098.5714931194
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 212541.10906795875
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 212793.15588768793
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 214235.36584142
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 214420.10713675313
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 214852.8491436901
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 215097.38506927597
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 216557.58759416197
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 216742.3288894951
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 217156.08509436462
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.6989267468452454
+                ]
+              }
+              {
+                t: 217408.1319140938
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 218908.17126354107
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 219092.9125588742
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 219532.30521954372
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 219784.3520392729
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 221279.13822382496
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 221463.8795191581
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 221833.84307532347
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 222085.88989505265
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 223522.3204597802
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 223707.06175511333
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 224119.6602842063
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 224371.70710393548
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 225950.69844228006
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 226135.4397376132
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 226513.01020452398
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 226765.05702425315
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 228249.42097688
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 228434.16227221314
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 228810.47999020567
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 229062.52680993485
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 230648.19075924336
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 230832.9320545765
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 231205.89946792004
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 231457.94628764922
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 232922.78657339225
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 233107.5278687254
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 233470.57372594616
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 233722.62054567534
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 235262.3399554825
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 235447.08125081562
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 235813.90979025603
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.37638384103775024
+                ]
+              }
+              {
+                t: 236065.9566099852
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 237539.62527574305
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 237724.36657107619
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 238152.78869955632
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 238404.8355192855
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 239960.42067040308
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 240145.16196573622
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 240549.15629779492
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 240801.2031175241
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 242255.9588700144
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 242440.70016534755
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 242803.90578838516
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 243055.95260811434
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 244633.78626691533
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 244818.52756224846
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 245165.6015723855
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.6421307921409607
+                ]
+              }
+              {
+                t: 245417.64839211467
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 246987.2707888123
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 247172.01208414545
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 247540.83259646082
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 247792.87941619
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 249250.45667908693
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 249435.19797442007
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 249824.79648088894
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 250076.84330061811
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 251605.86368876207
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 251790.6049840952
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 252209.42083770718
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.3271714448928833
+                ]
+              }
+              {
+                t: 252461.46765743635
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 253931.59361223303
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 254116.33490756617
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 254501.4101475781
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.6989267468452454
+                ]
+              }
+              {
+                t: 254753.45696730728
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 256255.5520607639
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 256440.29335609704
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 256831.7010114487
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 257083.74783117787
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 258636.64556014418
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  59.923072814941406
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 258821.38685547732
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 259210.34463678498
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5043360590934753
+                ]
+              }
+              {
+                t: 259462.39145651416
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 260928.91765727615
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 261113.6589526093
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 261463.89492887215
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 261715.94174860133
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 263081.872900682
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 263266.6141960151
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 263870.3699671071
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 264122.4167868363
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 265507.6940505022
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 265692.43534583534
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 266161.3872458354
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 266413.4340655646
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 270077.61148434225
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 270262.3527796754
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 270814.5589368157
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 271066.6057565449
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 276996.9936949128
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 277181.73499024595
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 277682.9463116429
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.396068811416626
+                ]
+              }
+              {
+                t: 277934.9931313721
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 288770.0085009976
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 288954.74979633075
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 289488.5322497214
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 289740.57906945056
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 295728.55252660456
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 295913.2938219377
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 296440.8265677197
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 296692.87338744884
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 300491.3787654578
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 300676.1200607909
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+              {
+                t: 301149.37493250123
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-0"
+                handler: [
+                  124.3916244506836
+                  0.012473137117922306
+                  0
+                  0.5633909702301025
+                ]
+              }
+              {
+                t: 301401.4217522304
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-2"
+                handler: [
+                  197.56649780273438
+                  0.02316586673259735
+                  100
+                  0.0026250400114804506
+                ]
+              }
+              {
+                t: 306201.240114887
+                value: 1
+                id: "no-id-TDK-Title 1-Opacity-point-5"
+                handler: [
+                  100
+                  0.08344829827547073
+                  79.67364501953125
+                  -0.5553756356239319
+                ]
+              }
+              {
+                t: 306385.98141022015
+                value: 0
+                id: "no-id-TDK-Title 1-Opacity-point-6"
+                handler: [
+                  144.71798706054688
+                  -0.018909448757767677
+                  100
+                  -0.005383593961596489
+                ]
+              }
+            ]
+            connectors: [
+              {
+                t: 207926.69064374967
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 209544.6686155595
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 210177.41942543024
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 211913.83019778627
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 212541.10906795875
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 214235.36584142
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 214852.8491436901
+                id: "no-id-TDK-Title 1-Opacity-connector-14"
+              }
+              {
+                t: 216557.58759416197
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 217156.08509436462
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 218908.17126354107
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 219532.30521954372
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 221279.13822382496
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 221833.84307532347
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 223522.3204597802
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 224119.6602842063
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 225950.69844228006
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 226513.01020452398
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 228249.42097688
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 228810.47999020567
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 230648.19075924336
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 231205.89946792004
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 232922.78657339225
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 233470.57372594616
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 235262.3399554825
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 235813.90979025603
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 237539.62527574305
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 238152.78869955632
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 239960.42067040308
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 240549.15629779492
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 242255.9588700144
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 242803.90578838516
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 244633.78626691533
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 245165.6015723855
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 246987.2707888123
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 247540.83259646082
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 249250.45667908693
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 249824.79648088894
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 251605.86368876207
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 252209.42083770718
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 253931.59361223303
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 254501.4101475781
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 256255.5520607639
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 256831.7010114487
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 258636.64556014418
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 259210.34463678498
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 260928.91765727615
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 261463.89492887215
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 263081.872900682
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 263870.3699671071
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 265507.6940505022
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 266161.3872458354
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 270077.61148434225
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 270814.5589368157
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 276996.9936949128
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 277682.9463116429
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 288770.0085009976
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 289488.5322497214
+                id: "no-id-TDK-Title 1-Opacity-connector-4"
+              }
+              {
+                t: 295728.55252660456
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 296440.8265677197
+                id: "no-id-TDK-Title 1-Opacity-connector-13"
+              }
+              {
+                t: 300491.3787654578
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+              {
+                t: 301149.37493250123
+                id: "no-id-TDK-Title 1-Opacity-connector-13"
+              }
+              {
+                t: 306201.240114887
+                id: "no-id-TDK-Title 1-Opacity-connector-11"
+              }
+            ]
+
+      "no-id-TDK-Title 1-Scale":
+        pacs:
+          _idCounter: 12
+          chronologyLength: 306409.9344790395
+          chronology:
+            points: [
+              {
+                t: 207926.69064374967
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 208089.30149518783
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 209528.40753041566
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 209751.99745114316
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 210177.41942543024
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 210340.0302768684
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 211897.56911264244
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 212121.15903336994
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 212541.10906795875
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 212703.7199193969
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 214219.10475627615
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 214442.69467700366
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 214852.8491436901
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 215015.45999512827
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 216541.32650901814
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 216764.91642974564
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 217156.08509436462
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 217318.69594580278
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 218891.91017839723
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 219115.50009912474
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 219532.30521954372
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 219694.91607098188
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 221262.87713868113
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 221486.46705940863
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 221833.84307532347
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 221996.45392676163
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 223506.05937463636
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 223729.64929536387
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 224119.6602842063
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 224282.27113564446
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 225934.43735713622
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 226158.02727786373
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 226514.3757330928
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 226676.98658453097
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 228234.525420305
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 228458.1153410325
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 228811.8455187745
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 228974.45637021266
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 230633.29520266835
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 230856.88512339586
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 231207.26499648887
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 231369.87584792703
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 232907.89101681724
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 233131.48093754475
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 233471.939254515
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 233634.55010595315
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 235247.44439890748
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 235471.034319635
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 235815.27531882486
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 235977.88617026302
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 237524.72971916804
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 237748.31963989555
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 238154.15422812515
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 238316.7650795633
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 239945.52511382807
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 240169.11503455558
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 240550.52182636375
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 240713.1326778019
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 242241.0633134394
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 242464.6532341669
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 242805.271316954
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 242967.88216839216
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 244618.89071034032
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 244842.48063106783
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 245165.6015723855
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 245328.21242382366
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 246971.00970366847
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 247194.59962439598
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 247540.83259646082
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 247703.443447899
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 249234.1955939431
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 249457.7855146706
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 249824.79648088894
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 249987.4073323271
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 251589.60260361823
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 251813.19252434574
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 252209.42083770718
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 252372.03168914534
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 253915.3325270892
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 254138.9224478167
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 254501.4101475781
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 254664.02099901627
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 256239.29097562007
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 256462.88089634757
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 256831.7010114487
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 256994.31186288685
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 258620.38447500035
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 258843.97439572786
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 259210.34463678498
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  1.4471778869628906
+                  0.009396973066031933
+                ]
+              }
+              {
+                t: 259372.95548822315
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 260912.6565721323
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 261136.24649285982
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 261463.89492887215
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 261626.5057803103
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 263065.61181553814
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 263289.2017362657
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 263871.73549567594
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 264034.3463471141
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 265492.7984939272
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 265716.3884146547
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 266162.75277440425
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 266325.3636258424
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 270062.7159277673
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 270286.30584849475
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 270815.9244653845
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 270978.5353168227
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 276982.0981383378
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 277205.6880590653
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 277684.3118402117
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 277846.9226916499
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 288755.1129444226
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 288978.7028651501
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 289489.89777829027
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 289652.5086297284
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 295713.65697002964
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 295937.24689075706
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 296442.19209628855
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 296604.8029477267
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 300491.3787654578
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 300714.9686861852
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+              {
+                t: 301150.6750556159
+                value: 0.99
+                id: "no-id-TDK-Title 1-Scale-point-0"
+                handler: [
+                  201.63177490234375
+                  0.003232670947909355
+                  0
+                  0.008521060459315777
+                ]
+              }
+              {
+                t: 301313.285907054
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-2"
+                handler: [
+                  95.93473815917969
+                  -0.0003680144436657429
+                  124.39161682128906
+                  -0.0023731067776679993
+                ]
+              }
+              {
+                t: 306186.3445583121
+                value: 1
+                id: "no-id-TDK-Title 1-Scale-point-4"
+                handler: [
+                  128.45689392089844
+                  -0.001390971476212144
+                  112.19580841064453
+                  -0.0006272794562391937
+                ]
+              }
+              {
+                t: 306409.9344790395
+                value: 0.94
+                id: "no-id-TDK-Title 1-Scale-point-5"
+                handler: [
+                  6.498759746551514
+                  0.021242402493953705
+                  100
+                  0.0032796806190162897
+                ]
+              }
+            ]
+            connectors: [
+              {
+                t: 207926.69064374967
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 209528.40753041566
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 210177.41942543024
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 211897.56911264244
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 212541.10906795875
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 214219.10475627615
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 214852.8491436901
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 216541.32650901814
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 217156.08509436462
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 218891.91017839723
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 219532.30521954372
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 221262.87713868113
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 221833.84307532347
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 223506.05937463636
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 224119.6602842063
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 225934.43735713622
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 226514.3757330928
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 228234.525420305
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 228811.8455187745
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 230633.29520266835
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 231207.26499648887
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 232907.89101681724
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 233471.939254515
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 235247.44439890748
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 235815.27531882486
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 237524.72971916804
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 238154.15422812515
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 239945.52511382807
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 240550.52182636375
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 242241.0633134394
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 242805.271316954
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 244618.89071034032
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 245165.6015723855
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 246971.00970366847
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 247540.83259646082
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 249234.1955939431
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 249824.79648088894
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 251589.60260361823
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 252209.42083770718
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 253915.3325270892
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 254501.4101475781
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 256239.29097562007
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 256831.7010114487
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 258620.38447500035
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 259210.34463678498
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 260912.6565721323
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 261463.89492887215
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 263065.61181553814
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 263871.73549567594
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 265492.7984939272
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 266162.75277440425
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 270062.7159277673
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 270815.9244653845
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 276982.0981383378
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 277684.3118402117
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 288755.1129444226
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 289489.89777829027
+                id: "no-id-TDK-Title 1-Scale-connector-3"
+              }
+              {
+                t: 295713.65697002964
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 296442.19209628855
+                id: "no-id-TDK-Title 1-Scale-connector-12"
+              }
+              {
+                t: 300491.3787654578
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+              {
+                t: 301150.6750556159
+                id: "no-id-TDK-Title 1-Scale-connector-12"
+              }
+              {
+                t: 306186.3445583121
+                id: "no-id-TDK-Title 1-Scale-connector-8"
+              }
+            ]
+
+      "no-id-TDK-Content-n":
+        pacs:
+          _idCounter: 19
+          chronologyLength: 300772.34813160606
+          chronology:
+            points: [
+              {
+                t: 207750.2575262179
+                value: 0
+                id: "no-id-TDK-Content-n-point-0"
+                handler: [
+                  100
+                  2.5
+                  100
+                  2.5
+                ]
+              }
+              {
+                t: 209944.36036163746
+                value: 1
+                id: "no-id-TDK-Content-n-point-5"
+                handler: [
+                  100
+                  0.05624999850988388
+                  364.3073425292969
+                  1.3298349380493164
+                ]
+              }
+              {
+                t: 212307.31418830203
+                value: 2
+                id: "no-id-TDK-Content-n-point-6"
+                handler: [
+                  100
+                  0.15094339847564697
+                  100
+                  0.15094339847564697
+                ]
+              }
+              {
+                t: 214727.5872224983
+                value: 3
+                id: "no-id-TDK-Content-n-point-7"
+                handler: [
+                  100
+                  0.17924527823925018
+                  100
+                  0.17924527823925018
+                ]
+              }
+              {
+                t: 216942.8931566324
+                value: 4
+                id: "no-id-TDK-Content-n-point-8"
+                handler: [
+                  100
+                  0.29992881417274475
+                  100
+                  0.29992881417274475
+                ]
+              }
+              {
+                t: 219211.17014758146
+                value: 5
+                id: "no-id-TDK-Content-n-point-9"
+                handler: [
+                  100
+                  0.3488621413707733
+                  100
+                  0.3488621413707733
+                ]
+              }
+              {
+                t: 221526.46202321185
+                value: 6
+                id: "no-id-TDK-Content-n-point-10"
+                handler: [
+                  100
+                  0.5247940421104431
+                  100
+                  0.5247940421104431
+                ]
+              }
+              {
+                t: 223752.36726593823
+                value: 7
+                id: "no-id-TDK-Content-n-point-11"
+                handler: [
+                  100
+                  0.5909247398376465
+                  100
+                  0.5909247398376465
+                ]
+              }
+              {
+                t: 226288.9742826631
+                value: 8
+                id: "no-id-TDK-Content-n-point-12"
+                handler: [
+                  100
+                  0.7304474711418152
+                  100
+                  0.7304474711418152
+                ]
+              }
+              {
+                t: 228496.37114822018
+                value: 9
+                id: "no-id-TDK-Content-n-point-13"
+                handler: [
+                  100
+                  0.8400996327400208
+                  100
+                  0.8400996327400208
+                ]
+              }
+              {
+                t: 230892.313223533
+                value: 10
+                id: "no-id-TDK-Content-n-point-14"
+                handler: [
+                  100
+                  0.7503557801246643
+                  100
+                  0.9468775391578674
+                ]
+              }
+              {
+                t: 233148.68874844635
+                value: 11
+                id: "no-id-TDK-Content-n-point-15"
+                handler: [
+                  100
+                  0.8674883842468262
+                  100
+                  0.8674883842468262
+                ]
+              }
+              {
+                t: 235522.39981793045
+                value: 12
+                id: "no-id-TDK-Content-n-point-16"
+                handler: [
+                  100
+                  0.9628339409828186
+                  100
+                  0.9628339409828186
+                ]
+              }
+              {
+                t: 237909.83176064852
+                value: 13
+                id: "no-id-TDK-Content-n-point-17"
+                handler: [
+                  100
+                  1.0300084352493286
+                  100
+                  1.0300084352493286
+                ]
+              }
+              {
+                t: 240297.26370336663
+                value: 14
+                id: "no-id-TDK-Content-n-point-18"
+                handler: [
+                  100
+                  0.7613105773925781
+                  100
+                  0.7613105773925781
+                ]
+              }
+              {
+                t: 242530.07293862276
+                value: 15
+                id: "no-id-TDK-Content-n-point-19"
+                handler: [
+                  100
+                  0.85087651014328
+                  100
+                  0.85087651014328
+                ]
+              }
+              {
+                t: 244905.13011852032
+                value: 16
+                id: "no-id-TDK-Content-n-point-0"
+                handler: [
+                  100
+                  2.5
+                  100
+                  2.5
+                ]
+              }
+              {
+                t: 247175.6004457555
+                value: 17
+                id: "no-id-TDK-Content-n-point-5"
+                handler: [
+                  132.31626892089844
+                  0.05624999478459358
+                  364.3073425292969
+                  1.3298349380493164
+                ]
+              }
+              {
+                t: 249551.0113810141
+                value: 18
+                id: "no-id-TDK-Content-n-point-6"
+                handler: [
+                  100
+                  0.15094339847564697
+                  100
+                  0.15094339847564697
+                ]
+              }
+              {
+                t: 251881.77498020974
+                value: 19
+                id: "no-id-TDK-Content-n-point-7"
+                handler: [
+                  100
+                  0.17924527823925018
+                  100
+                  0.17924527823925018
+                ]
+              }
+              {
+                t: 254129.17932712848
+                value: 20
+                id: "no-id-TDK-Content-n-point-8"
+                handler: [
+                  100
+                  0.29992881417274475
+                  100
+                  0.29992881417274475
+                ]
+              }
+              {
+                t: 256436.01345607918
+                value: 21
+                id: "no-id-TDK-Content-n-point-9"
+                handler: [
+                  100
+                  0.3488621413707733
+                  100
+                  0.3488621413707733
+                ]
+              }
+              {
+                t: 258818.2959658404
+                value: 22
+                id: "no-id-TDK-Content-n-point-10"
+                handler: [
+                  100
+                  0.5247940421104431
+                  100
+                  0.9276027679443359
+                ]
+              }
+              {
+                t: 261183.43559504734
+                value: 23
+                id: "no-id-TDK-Content-n-point-11"
+                handler: [
+                  100
+                  0.5909247398376465
+                  100
+                  0.5909247398376465
+                ]
+              }
+              {
+                t: 263445.65225302265
+                value: 24
+                id: "no-id-TDK-Content-n-point-12"
+                handler: [
+                  100
+                  0.7304474711418152
+                  100
+                  0.7304474711418152
+                ]
+              }
+              {
+                t: 265812.1418102783
+                value: 25
+                id: "no-id-TDK-Content-n-point-13"
+                handler: [
+                  100
+                  0.8400996327400208
+                  100
+                  0.8400996327400208
+                ]
+              }
+              {
+                t: 270518.76240515587
+                value: 26
+                id: "no-id-TDK-Content-n-point-14"
+                handler: [
+                  100
+                  0.7503557801246643
+                  100
+                  0.9468775391578674
+                ]
+              }
+              {
+                t: 277129.9665813783
+                value: 27
+                id: "no-id-TDK-Content-n-point-15"
+                handler: [
+                  100
+                  0.8674883842468262
+                  100
+                  0.8674883842468262
+                ]
+              }
+              {
+                t: 289025.96367526666
+                value: 28
+                id: "no-id-TDK-Content-n-point-16"
+                handler: [
+                  100
+                  0.9628339409828186
+                  100
+                  0.9628339409828186
+                ]
+              }
+              {
+                t: 296035.4379230581
+                value: 29
+                id: "no-id-TDK-Content-n-point-17"
+                handler: [
+                  100
+                  1.0300084352493286
+                  67.68373107910156
+                  1.0300084352493286
+                ]
+              }
+              {
+                t: 300772.34813160606
+                value: 30
+                id: "no-id-TDK-Content-n-point-17"
+                handler: [
+                  44.048919677734375
+                  1.0300084352493286
+                  67.68373107910156
+                  1.0300084352493286
+                ]
+              }
+            ]
+            connectors: []
+
   timelineEditor:
-    scrollTop: -81
+    scrollTop: 33
     guides:
-      _list: [0]
+      _list: [
+        0
+        207926.69064374967
+        209757.505
+        210177.41942543024
+        212571.62153586248
+        245324.33890338053
+        259211.68490628368
+        270187.8249680503
+        274721.64800000004
+        276466.56877505657
+        289569.43200000003
+        306554.16500000004
+      ]
 }

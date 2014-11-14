@@ -24,8 +24,10 @@ module.exports = (display) ->
 
 	setupSlides film
 
-	film.theatre.model.audio.set '../xeno/til.mp3'
-	film.theatre.model.audio.mute()
+	film.theatre.model.audio.set window.postBase + '/xeno/dog.wav'
+
+	# film.theatre.model.audio.set '../xeno/tdk.mp3'
+	# film.theatre.model.audio.mute()
 
 	film.run()
 
