@@ -24,45 +24,15 @@ film.kilid = kilid
 
 player = new SimplePlayer film
 
+film.player = player
+
 setupLane1 film
 
 film.run()
 
-return
 do ->
 
 	page = El document.querySelector '.pageContainer'
-
-	el = El document.getElementById 'film-preview'
-	.z 1
-
-	mob = do ->
-
-		if navigator.userAgent.match(/Android/i) or navigator.userAgent.match(/webOS/i) or navigator.userAgent.match(/iPhone/i) or navigator.userAgent.match(/iPad/i) or navigator.userAgent.match(/iPod/i) or navigator.userAgent.match(/BlackBerry/i) or navigator.userAgent.match(/Windows Phone/i)
-
-			return true
-
-		else
-
-			return false
-
-	if mob
-
-		el.node.querySelector('.film-preview-title')
-		.innerHTML += """
-
-			</br><span style="font-size: 12px">( Video might not play in your browser )</span>
-
-		"""
-
-	display.on 'layout', ->
-
-		if display.state is 'restored'
-
-			el.x display.currentDims.left
-			.y display.currentDims.top
-
-		faded = no
 
 	display.on 'fullscreen', ->
 
@@ -73,24 +43,24 @@ do ->
 		page.css pointerEvents: 'auto'
 
 
-	times = 0
+	# times = 0
 
-	film.theatre.model.timeControl.on 'time-change', listener = ->
+	# film.theatre.model.timeControl.on 'time-change', listener = ->
 
-		return if times > 2
+	# 	return if times > 2
 
-		times++
+	# 	times++
 
-		if times > 1
+	# 	if times > 1
 
-			film.theatre.model.timeControl.removeEvent 'time-change', listener
+	# 		film.theatre.model.timeControl.removeEvent 'time-change', listener
 
-			el.opacity 0
+	# 		el.opacity 0
 
-			setTimeout ->
+	# 		setTimeout ->
 
-				el.detach()
+	# 			el.detach()
 
-			, 5000
+	# 		, 5000
 
 		return

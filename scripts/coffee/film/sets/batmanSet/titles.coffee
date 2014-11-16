@@ -191,7 +191,7 @@ module.exports = [
 	"
 	<ul>
 		<li class=\"little\">
-			This adaptation is produced solely for artistic purposes. <br>
+			This demo is produced solely for experimental purposes. <br>
 			The Dark Knight is © by Warner Bros. Entertainment Inc. <br>
 			Original Score is © by Warner-Olive Music, LLC. <br>
 		</li>

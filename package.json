@@ -4,10 +4,11 @@
   "version": "0.0.0",
   "description": "(work in progress)",
   "dependencies": {
-    "tiny-filmmaking-studio": "*",
-    "stupid-dom-interface": "~0.1.0-beta.13",
+    "kilid": "~0.1.0-beta.10",
     "moosh": "~0.1.0-beta.18",
-    "kilid": "~0.1.0-beta.10"
+    "stupid-dom-interface": "~0.1.0-beta.13",
+    "timing-function": "^0.2.1",
+    "tiny-filmmaking-studio": "*"
   },
   "devDependencies": {
     "clean-css": "^2.1.8",
